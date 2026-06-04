@@ -6,7 +6,11 @@
 
   document.documentElement.classList.add("js");
 
-  if (typeof gsap === "undefined") return;
+  if (typeof gsap === "undefined") {
+    document.body.classList.remove("is-loading");
+    document.getElementById("loader")?.remove();
+    return;
+  }
   gsap.registerPlugin(ScrollTrigger);
 
   const motion = window.BagelMotion;

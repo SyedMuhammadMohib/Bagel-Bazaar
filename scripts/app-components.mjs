@@ -28,14 +28,14 @@ export function appDownloadButtons(opts = {}) {
   const id = opts.idPrefix || "app";
 
   return `<div class="app-download app-download--${layout}${cls}" role="group" aria-label="Download the Bagel Bazaar app">
-  <a href="${APP_LINKS.ios}" class="store-badge store-badge--apple has-ripple" id="${id}-ios" target="_blank" rel="noopener noreferrer" aria-label="Download Bagel Bazaar on the App Store">
+  <div class="store-badge store-badge--apple store-badge--static" id="${id}-ios" role="img" aria-label="Download on the App Store">
     ${appleIcon}
     <span class="store-badge__text"><small>Download on the</small><strong>App Store</strong></span>
-  </a>
-  <a href="${APP_LINKS.android}" class="store-badge store-badge--google has-ripple" id="${id}-android" target="_blank" rel="noopener noreferrer" aria-label="Get Bagel Bazaar on Google Play">
+  </div>
+  <div class="store-badge store-badge--google store-badge--static" id="${id}-android" role="img" aria-label="Get it on Google Play">
     ${googleIcon}
     <span class="store-badge__text"><small>Get it on</small><strong>Google Play</strong></span>
-  </a>
+  </div>
 </div>`;
 }
 

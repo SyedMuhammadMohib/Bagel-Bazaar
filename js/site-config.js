@@ -26,6 +26,8 @@ window.SITE = {
   playStoreUrl:
     "https://play.google.com/store/apps/details?id=com.storefrontconsumer.bagel.bazaar&pcampaignid=web_share",
   mapUrl: "https://maps.google.com/?q=337+Applegarth+Rd+%2310+Monroe+NJ+08831",
+  mapEmbedUrl:
+    "https://maps.google.com/maps?q=337+Applegarth+Rd+%2310+Monroe+NJ+08831&hl=en&z=18&output=embed&t=k",
   logo: "assets/logo/bagel-bazaar-logo.png",
   nav: [
     { label: "Welcome", href: "index.html", id: "welcome" },

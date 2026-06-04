@@ -422,7 +422,7 @@ const pages = [
           </div>
           <div class="split__frame" data-reveal>
             <div class="map-embed map-embed--premium map-embed--framed" data-clip-reveal>
-              <iframe title="Bagel Bazaar Monroe map" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=337+Applegarth+Rd+%2310+Monroe+NJ+08831&output=embed"></iframe>
+              <iframe title="Bagel Bazaar Monroe map" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=337+Applegarth+Rd+%2310+Monroe+NJ+08831&hl=en&z=18&output=embed&t=k"></iframe>
             </div>
           </div>
         </div>

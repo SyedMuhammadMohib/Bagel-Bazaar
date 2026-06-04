@@ -157,8 +157,8 @@ export function quickActionBar() {
   return `<nav class="mobile-bar mobile-bar--premium" id="mobile-bar" aria-label="Quick actions">
     <a href="${PHONE}" class="mobile-bar__action" aria-label="Call Bagel Bazaar"><span>Call</span></a>
     <a href="${MAP}" class="mobile-bar__action" target="_blank" rel="noopener" aria-label="Get directions"><span>Map</span></a>
-    <a href="${ORDER}" class="btn btn-primary mobile-bar__order" target="_blank" rel="noopener">Order Now</a>
-    <a href="loyalty.html" class="mobile-bar__action" data-transition="page" aria-label="Loyalty rewards"><span>Rewards</span></a>
+    <a href="${ORDER}" class="mobile-bar__action mobile-bar__action--accent" target="_blank" rel="noopener" aria-label="Order online"><span>Order Online</span></a>
+    <a href="loyalty.html" class="mobile-bar__action" data-transition="page" aria-label="Loyalty program"><span>Loyalty Program</span></a>
   </nav>
   <aside class="order-dock order-dock--premium" id="order-dock" aria-label="Quick order" hidden>
     <div class="order-dock__inner container">
@@ -166,9 +166,9 @@ export function quickActionBar() {
       <div class="order-dock__actions">
         <a href="${PHONE}" class="order-dock__link">Call</a>
         <a href="${MAP}" class="order-dock__link" target="_blank" rel="noopener">Directions</a>
-        <a href="loyalty.html" class="order-dock__link" data-transition="page">Rewards</a>
+        <a href="loyalty.html" class="order-dock__link" data-transition="page">Loyalty Program</a>
         <a href="app.html" class="order-dock__link" data-transition="page">App</a>
-        <a href="${ORDER}" class="btn btn-primary btn-sm" target="_blank" rel="noopener">Order Now</a>
+        <a href="${ORDER}" class="order-dock__link order-dock__link--accent" target="_blank" rel="noopener">Order Online</a>
       </div>
     </div>
   </aside>`;

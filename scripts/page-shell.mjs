@@ -118,7 +118,7 @@ export function header(activeId) {
       </nav>
       <div class="header-cta">
         <button type="button" class="cart-toggle" id="cart-toggle" aria-label="View cart">${CART_ICON}<span class="cart-toggle__count is-empty" id="cart-toggle-count" data-cart-count>0</span></button>
-        <a href="https://www.bagelbazaarmonroe.com/OrderOnline.tpl" class="btn btn-primary btn-magnetic" target="_blank" rel="noopener">Order Online</a>
+        <a href="https://www.bagelbazaarmonroe.com/OrderOnline.tpl" class="btn btn-primary btn-magnetic header-order-btn" target="_blank" rel="noopener">Order Online</a>
         <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu"><span></span><span></span><span></span></button>
       </div>
     </div>

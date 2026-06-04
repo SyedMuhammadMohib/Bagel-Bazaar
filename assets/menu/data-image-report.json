@@ -1,0 +1,1541 @@
+{
+  "matched": [
+    {
+      "itemId": "coffee-drip",
+      "name": "Coffee",
+      "file": "coffee.jpg",
+      "path": "data/coffee.jpg",
+      "bytes": 649055
+    },
+    {
+      "itemId": "espresso-single",
+      "name": "Single Espresso",
+      "file": "SingleEspresso.jpg",
+      "path": "data/SingleEspresso.jpg",
+      "bytes": 968335
+    },
+    {
+      "itemId": "espresso-double",
+      "name": "Double Espresso",
+      "file": "Double Espresso.jpg",
+      "path": "data/Double Espresso.jpg",
+      "bytes": 818320
+    },
+    {
+      "itemId": "cappuccino-hot",
+      "name": "Hot Cappuccino",
+      "file": "Hot Cappuccino.jpg",
+      "path": "data/Hot Cappuccino.jpg",
+      "bytes": 2425949
+    },
+    {
+      "itemId": "cappuccino-flavored",
+      "name": "Flavored Hot Cappuccino",
+      "file": "FlavoredHotCappuccino.jpg",
+      "path": "data/FlavoredHotCappuccino.jpg",
+      "bytes": 1047838
+    },
+    {
+      "itemId": "latte-iced",
+      "name": "Iced Latte",
+      "file": "IcedLatte.jpg",
+      "path": "data/IcedLatte.jpg",
+      "bytes": 1774036
+    },
+    {
+      "itemId": "latte-iced-flavored",
+      "name": "Flavored Iced Latte",
+      "file": "FlavoredIcedLatte.jpg",
+      "path": "data/FlavoredIcedLatte.jpg",
+      "bytes": 1534863
+    },
+    {
+      "itemId": "coffee-iced",
+      "name": "Iced Coffee",
+      "file": "IcedCoffee.jpg",
+      "path": "data/IcedCoffee.jpg",
+      "bytes": 631565
+    },
+    {
+      "itemId": "coffee-iced-flavored",
+      "name": "Flavored Iced Coffee",
+      "file": "FlavoredIcedCoffee.jpg",
+      "path": "data/FlavoredIcedCoffee.jpg",
+      "bytes": 3195941
+    },
+    {
+      "itemId": "frappe-frozen",
+      "name": "Frozen Frappe",
+      "file": "FrozenFrappe.jpg",
+      "path": "data/FrozenFrappe.jpg",
+      "bytes": 1201072
+    },
+    {
+      "itemId": "frappe-flavored",
+      "name": "Flavored Frozen Frappe",
+      "file": "Flavored Frozen Frappe.jpg",
+      "path": "data/Flavored Frozen Frappe.jpg",
+      "bytes": 795161
+    },
+    {
+      "itemId": "box-o-joe",
+      "name": "Box o Joe (12 Cups)",
+      "file": "Box o Joe (12 Cups).jpg",
+      "path": "data/Box o Joe (12 Cups).jpg",
+      "bytes": 1938053
+    },
+    {
+      "itemId": "bagel-1",
+      "name": "Bagel (1)",
+      "file": "Bagel (1).jpg",
+      "path": "data/Bagel (1).jpg",
+      "bytes": 583911
+    },
+    {
+      "itemId": "bagels-6",
+      "name": "Bagels (6)",
+      "file": "Bagels (6).jpg",
+      "path": "data/Bagels (6).jpg",
+      "bytes": 1845821
+    },
+    {
+      "itemId": "bagels-13",
+      "name": "Bagel (13)",
+      "file": "Bagel (13).jpg",
+      "path": "data/Bagel (13).jpg",
+      "bytes": 814989
+    },
+    {
+      "itemId": "bagel-special-1",
+      "name": "#1 Bagel Special",
+      "file": "#1 Bagel Special.jpg",
+      "path": "data/#1 Bagel Special.jpg",
+      "bytes": 1095071
+    },
+    {
+      "itemId": "bagel-special-2",
+      "name": "#2 Bagel Special",
+      "file": "#2 Bagel Special.jpg",
+      "path": "data/#2 Bagel Special.jpg",
+      "bytes": 481287
+    },
+    {
+      "itemId": "spread-butter",
+      "name": "Bagel w/ Butter",
+      "file": "Bagel w Butter.jpg",
+      "path": "data/Bagel w Butter.jpg",
+      "bytes": 2125605
+    },
+    {
+      "itemId": "spread-cinna-butter",
+      "name": "Bagel w/ Cinna Butter",
+      "file": "Bagel w Cinna Butter.jpg",
+      "path": "data/Bagel w Cinna Butter.jpg",
+      "bytes": 991980
+    },
+    {
+      "itemId": "spread-peanut-butter",
+      "name": "Bagel w/ Peanut Butter",
+      "file": "Bagel w Peanut Butter.jpg",
+      "path": "data/Bagel w Peanut Butter.jpg",
+      "bytes": 5654493
+    },
+    {
+      "itemId": "spread-nutella",
+      "name": "Bagel w/ Nutella",
+      "file": "Bagel w Nutella.jpg",
+      "path": "data/Bagel w Nutella.jpg",
+      "bytes": 1188985
+    },
+    {
+      "itemId": "spread-jelly",
+      "name": "Bagel w/ Jelly",
+      "file": "Bagel w Jelly.jpg",
+      "path": "data/Bagel w Jelly.jpg",
+      "bytes": 4943292
+    },
+    {
+      "itemId": "spread-plain-cc",
+      "name": "Bagel w/ Plain Cream Cheese",
+      "file": "bagel with plain cream cheese.jpg",
+      "path": "data/bagel with plain cream cheese.jpg",
+      "bytes": 1868006
+    },
+    {
+      "itemId": "spread-veggie-cc",
+      "name": "Bagel w/ Vegetable Cream Cheese",
+      "file": "Vegetable Cream Cheese.jpg",
+      "path": "data/Vegetable Cream Cheese.jpg",
+      "bytes": 2047123
+    },
+    {
+      "itemId": "spread-scallion-cc",
+      "name": "Bagel w/ Scallion Cream Cheese",
+      "file": "Bagel w Scallion Cream Cheese.jfif",
+      "path": "data/Bagel w Scallion Cream Cheese.jfif",
+      "bytes": 9368
+    },
+    {
+      "itemId": "spread-lox-spread",
+      "name": "Bagel w/ Lox Spread",
+      "file": "bagel with lox spread.jpg",
+      "path": "data/bagel with lox spread.jpg",
+      "bytes": 1337369
+    },
+    {
+      "itemId": "spread-walnut-cc",
+      "name": "Bagel w/ Walnut Raisin Cream Cheese",
+      "file": "Bagel w Walnut Raisin Cream Cheese.jfif",
+      "path": "data/Bagel w Walnut Raisin Cream Cheese.jfif",
+      "bytes": 8819
+    },
+    {
+      "itemId": "spread-strawberry-cc",
+      "name": "Bagel w/ Strawberry Cream Cheese",
+      "file": "Bagel w Strawberry Cream Cheese.jfif",
+      "path": "data/Bagel w Strawberry Cream Cheese.jfif",
+      "bytes": 9460
+    },
+    {
+      "itemId": "spread-jalapeno-cc",
+      "name": "Bagel w/ Jalapeno Garlic Cream Cheese",
+      "file": "Bagel w Jalapeno Garlic Cream Cheese.jfif",
+      "path": "data/Bagel w Jalapeno Garlic Cream Cheese.jfif",
+      "bytes": 10855
+    },
+    {
+      "itemId": "spread-oreo-cc",
+      "name": "Bagel w/ Oreo Explosion Cream Cheese",
+      "file": "Bagel w Oreo Explosion Cream Cheese.jfif",
+      "path": "data/Bagel w Oreo Explosion Cream Cheese.jfif",
+      "bytes": 11612
+    },
+    {
+      "itemId": "spread-bacon-cc",
+      "name": "Bagel w/ Bacon & Chives Cream Cheese",
+      "file": "Bagel w Bacon & Chives Cream Cheese.jfif",
+      "path": "data/Bagel w Bacon & Chives Cream Cheese.jfif",
+      "bytes": 8290
+    },
+    {
+      "itemId": "spread-lite-veggie-cc",
+      "name": "Bagel w/ Lite Veggie Cream Cheese",
+      "file": "Bagel w Lite Veggie Cream Cheese.jfif",
+      "path": "data/Bagel w Lite Veggie Cream Cheese.jfif",
+      "bytes": 6427
+    },
+    {
+      "itemId": "spread-olive-cc",
+      "name": "Bagel w/ Green Olive Pimento Cream Cheese",
+      "file": "Bagel w Green Olive Pimento Cream Cheese.jfif",
+      "path": "data/Bagel w Green Olive Pimento Cream Cheese.jfif",
+      "bytes": 12743
+    },
+    {
+      "itemId": "lox-plain-cc",
+      "name": "Bagel w/ Lox & Plain Cream Cheese",
+      "file": "Bagel w Lox & Plain Cream Cheese.jfif",
+      "path": "data/Bagel w Lox & Plain Cream Cheese.jfif",
+      "bytes": 11229
+    },
+    {
+      "itemId": "lox-veggie-cc",
+      "name": "Bagel w/ Lox & Veggie Cream Cheese",
+      "file": "Bagel w Lox & Veggie Cream Cheese.jfif",
+      "path": "data/Bagel w Lox & Veggie Cream Cheese.jfif",
+      "bytes": 12216
+    },
+    {
+      "itemId": "lox-scallion-cc",
+      "name": "Bagel w/ Lox & Scallion Cream Cheese",
+      "file": "Bagel w Lox & Scallion Cream Cheese.jfif",
+      "path": "data/Bagel w Lox & Scallion Cream Cheese.jfif",
+      "bytes": 8084
+    },
+    {
+      "itemId": "lox-whitefish",
+      "name": "Bagel w/ Whitefish Salad & Plain Cream Cheese",
+      "file": "Bagel w Whitefish Salad & Plain Cream Cheese.jfif",
+      "path": "data/Bagel w Whitefish Salad & Plain Cream Cheese.jfif",
+      "bytes": 4286
+    },
+    {
+      "itemId": "tub-plain-cc",
+      "name": "Plain Cream Cheese Tub",
+      "file": "Plain Cream Cheese Tub.jfif",
+      "path": "data/Plain Cream Cheese Tub.jfif",
+      "bytes": 5793
+    },
+    {
+      "itemId": "tub-flavored-cc",
+      "name": "Flavored Cream Cheese Tub",
+      "file": "Flavored Cream Cheese Tub.jfif",
+      "path": "data/Flavored Cream Cheese Tub.jfif",
+      "bytes": 8563
+    },
+    {
+      "itemId": "tub-plain-butter",
+      "name": "Plain Butter Tub",
+      "file": "Plain Butter Tub.jfif",
+      "path": "data/Plain Butter Tub.jfif",
+      "bytes": 6094
+    },
+    {
+      "itemId": "tub-flavored-butter",
+      "name": "Flavored Butter Tub",
+      "file": "Flavored Butter Tub.jfif",
+      "path": "data/Flavored Butter Tub.jfif",
+      "bytes": 11891
+    },
+    {
+      "itemId": "tub-jelly",
+      "name": "Jelly Tub",
+      "file": "Jelly Tub.jfif",
+      "path": "data/Jelly Tub.jfif",
+      "bytes": 5674
+    },
+    {
+      "itemId": "lox-quarter",
+      "name": "Lox Slices (1/4 lb.)",
+      "file": "Lox Slices (1 upon 4 lb.).jfif",
+      "path": "data/Lox Slices (1 upon 4 lb.).jfif",
+      "bytes": 8204
+    },
+    {
+      "itemId": "lox-half",
+      "name": "Lox Slices (1/2 lb.)",
+      "file": "Lox Slices (1 upon 2 lb).jfif",
+      "path": "data/Lox Slices (1 upon 2 lb).jfif",
+      "bytes": 10807
+    },
+    {
+      "itemId": "lox-pound",
+      "name": "Lox Slices (1 lb.)",
+      "file": "Lox Slices (1 lb.).jfif",
+      "path": "data/Lox Slices (1 lb.).jfif",
+      "bytes": 10977
+    },
+    {
+      "itemId": "bakery-muffin",
+      "name": "Jumbo Muffins",
+      "file": "Jumbo Muffins.jpg",
+      "path": "data/Jumbo Muffins.jpg",
+      "bytes": 1766319
+    },
+    {
+      "itemId": "bakery-cookie",
+      "name": "Jumbo Cookies",
+      "file": "Jumbo Cookies.jpg",
+      "path": "data/Jumbo Cookies.jpg",
+      "bytes": 1140452
+    },
+    {
+      "itemId": "bakery-crumb-cake",
+      "name": "Crumb Cake",
+      "file": "Crumb Cake.jpg",
+      "path": "data/Crumb Cake.jpg",
+      "bytes": 2141760
+    },
+    {
+      "itemId": "bakery-brownie",
+      "name": "Brownie",
+      "file": "Brownie.jpg",
+      "path": "data/Brownie.jpg",
+      "bytes": 2386517
+    },
+    {
+      "itemId": "bakery-blondie",
+      "name": "Blondie",
+      "file": "Blondie.jfif",
+      "path": "data/Blondie.jfif",
+      "bytes": 8964
+    },
+    {
+      "itemId": "burrito-1",
+      "name": "#1 Burrito",
+      "file": "#1 Burrito.jpg",
+      "path": "data/#1 Burrito.jpg",
+      "bytes": 181396
+    },
+    {
+      "itemId": "burrito-2",
+      "name": "#2 Burrito",
+      "file": "#2 Burrito.jfif",
+      "path": "data/#2 Burrito.jfif",
+      "bytes": 10447
+    },
+    {
+      "itemId": "burrito-3",
+      "name": "#3 Burrito",
+      "file": "#3 Burrito.jfif",
+      "path": "data/#3 Burrito.jfif",
+      "bytes": 14988
+    },
+    {
+      "itemId": "bfast-quesadilla-4",
+      "name": "#4 Quesadilla",
+      "file": "#4 Quesadilla.jfif",
+      "path": "data/#4 Quesadilla.jfif",
+      "bytes": 15149
+    },
+    {
+      "itemId": "bfast-quesadilla-5",
+      "name": "#5 Quesadilla",
+      "file": "#5 Quesadilla.jfif",
+      "path": "data/#5 Quesadilla.jfif",
+      "bytes": 12432
+    },
+    {
+      "itemId": "bfast-quesadilla-6",
+      "name": "#6 Quesadilla",
+      "file": "#6 Quesadilla.jfif",
+      "path": "data/#6 Quesadilla.jfif",
+      "bytes": 5753
+    },
+    {
+      "itemId": "bfast-egg",
+      "name": "Egg Sandwich",
+      "file": "Egg Sandwich.jpg",
+      "path": "data/Egg Sandwich.jpg",
+      "bytes": 390316
+    },
+    {
+      "itemId": "bfast-egg-cheese",
+      "name": "Egg & Cheese Sandwich",
+      "file": "Egg & Cheese Sandwich.jpg",
+      "path": "data/Egg & Cheese Sandwich.jpg",
+      "bytes": 1222568
+    },
+    {
+      "itemId": "bfast-egg-meat-cheese",
+      "name": "Egg, Meat & Cheese Sandwich",
+      "file": "Egg, Meat & Cheese Sandwich.jpg",
+      "path": "data/Egg, Meat & Cheese Sandwich.jpg",
+      "bytes": 1262317
+    },
+    {
+      "itemId": "bfast-meat-egg",
+      "name": "Meat & Egg Sandwich",
+      "file": "Meat & Egg Sandwich.jpg",
+      "path": "data/Meat & Egg Sandwich.jpg",
+      "bytes": 180170
+    },
+    {
+      "itemId": "bfast-belly-buster",
+      "name": "Belly Buster Sandwich",
+      "file": "Belly Buster Sandwich.jpg",
+      "path": "data/Belly Buster Sandwich.jpg",
+      "bytes": 2805458
+    },
+    {
+      "itemId": "bfast-buddy-buster",
+      "name": "Buddy Buster Sandwich",
+      "file": "Buddy Buster Sandwich.jpg",
+      "path": "data/Buddy Buster Sandwich.jpg",
+      "bytes": 1351438
+    },
+    {
+      "itemId": "bfast-breakfast-bomb",
+      "name": "Breakfast Bomb Sandwich",
+      "file": "Breakfast Bomb Sandwich.jpg",
+      "path": "data/Breakfast Bomb Sandwich.jpg",
+      "bytes": 1470965
+    },
+    {
+      "itemId": "bfast-western-patty",
+      "name": "Western Patty Sandwich",
+      "file": "Western Patty Sandwich.jpg",
+      "path": "data/Western Patty Sandwich.jpg",
+      "bytes": 3717275
+    },
+    {
+      "itemId": "bfast-philly",
+      "name": "Philly Sandwich",
+      "file": "Philly Sandwich.jpg",
+      "path": "data/Philly Sandwich.jpg",
+      "bytes": 742223
+    },
+    {
+      "itemId": "bfast-healthy-veggie",
+      "name": "Healthy Veggie Sandwich",
+      "file": "Healthy Veggie Sandwich.jpg",
+      "path": "data/Healthy Veggie Sandwich.jpg",
+      "bytes": 530147
+    },
+    {
+      "itemId": "bfast-xxx",
+      "name": "XXX Sandwich",
+      "file": "XXX Sandwich.jpg",
+      "path": "data/XXX Sandwich.jpg",
+      "bytes": 526208
+    },
+    {
+      "itemId": "bfast-leo",
+      "name": "The Leo Sandwich",
+      "file": "The Leo Sandwich.jpg",
+      "path": "data/The Leo Sandwich.jpg",
+      "bytes": 2805458
+    },
+    {
+      "itemId": "bfast-avocado-toast",
+      "name": "Classic Avocado Toast",
+      "file": "Classic Avocado Toast.jpg",
+      "path": "data/Classic Avocado Toast.jpg",
+      "bytes": 986546
+    },
+    {
+      "itemId": "omelette-3-eggs",
+      "name": "3 Eggs Any Style",
+      "file": "3 Eggs Any Style.jpg",
+      "path": "data/3 Eggs Any Style.jpg",
+      "bytes": 2484244
+    },
+    {
+      "itemId": "omelette-3-eggs-meat",
+      "name": "3 Eggs Any Style w/ Meat",
+      "file": "3 Eggs Any Style w Meat.jpg",
+      "path": "data/3 Eggs Any Style w Meat.jpg",
+      "bytes": 1982098
+    },
+    {
+      "itemId": "omelette-western",
+      "name": "The Western Omelette",
+      "file": "The Western Omelette.jpg",
+      "path": "data/The Western Omelette.jpg",
+      "bytes": 802701
+    },
+    {
+      "itemId": "omelette-veggie",
+      "name": "The Veggie Omelette",
+      "file": "The Veggie Omelette.jpg",
+      "path": "data/The Veggie Omelette.jpg",
+      "bytes": 1284448
+    },
+    {
+      "itemId": "omelette-cheesy",
+      "name": "The Cheesy Omelette",
+      "file": "The Cheesy Omelette.jpg",
+      "path": "data/The Cheesy Omelette.jpg",
+      "bytes": 809254
+    },
+    {
+      "itemId": "omelette-hammy",
+      "name": "The Hammy Omelette",
+      "file": "Omelette.jpg",
+      "path": "data/Omelette.jpg",
+      "bytes": 725244
+    },
+    {
+      "itemId": "omelette-bacon",
+      "name": "The Bacon Lovers Omelette",
+      "file": "Bacon Lovers Omelette.jpg",
+      "path": "data/Bacon Lovers Omelette.jpg",
+      "bytes": 1380640
+    },
+    {
+      "itemId": "omelette-shroomy",
+      "name": "The Shroomy Omelette",
+      "file": "The Shroomy Omelette.jpg",
+      "path": "data/The Shroomy Omelette.jpg",
+      "bytes": 3272239
+    },
+    {
+      "itemId": "omelette-mediterranean",
+      "name": "The Mediterranean Omelette",
+      "file": "The Mediterranean Omelette.jpg",
+      "path": "data/The Mediterranean Omelette.jpg",
+      "bytes": 1673756
+    },
+    {
+      "itemId": "omelette-turkey-garden",
+      "name": "The Turkey Garden Omelette",
+      "file": "The Turkey Garden Omelette.jpg",
+      "path": "data/The Turkey Garden Omelette.jpg",
+      "bytes": 2827404
+    },
+    {
+      "itemId": "pancakes-buttermilk",
+      "name": "3 Buttermilk Pancakes",
+      "file": "3 Buttermilk Pancakes.jpg",
+      "path": "data/3 Buttermilk Pancakes.jpg",
+      "bytes": 1360770
+    },
+    {
+      "itemId": "pancakes-chocolate",
+      "name": "3 Chocolate Chip Pancakes",
+      "file": "3 Chocolate Chip Pancakes.jpg",
+      "path": "data/3 Chocolate Chip Pancakes.jpg",
+      "bytes": 1209017
+    },
+    {
+      "itemId": "pancakes-blueberry",
+      "name": "3 Blueberry Pancakes",
+      "file": "3 Blueberry Pancakes.jpg",
+      "path": "data/3 Blueberry Pancakes.jpg",
+      "bytes": 1245818
+    },
+    {
+      "itemId": "pancakes-cinnamon",
+      "name": "3 Cinnamon Swirl Pancakes",
+      "file": "3 Cinnamon Swirl Pancakes.jpg",
+      "path": "data/3 Cinnamon Swirl Pancakes.jpg",
+      "bytes": 894457
+    },
+    {
+      "itemId": "ft-classic",
+      "name": "Classic French Toast",
+      "file": "Classic French Toast.jpg",
+      "path": "data/Classic French Toast.jpg",
+      "bytes": 814988
+    },
+    {
+      "itemId": "ft-nutella-smores",
+      "name": "Nutella Smores French Toast",
+      "file": "Nutella Smores French Toast.jpg",
+      "path": "data/Nutella Smores French Toast.jpg",
+      "bytes": 2087510
+    },
+    {
+      "itemId": "ft-strawberry",
+      "name": "Strawberry Stuffed French Toast",
+      "file": "Strawberry Stuffed French Toast.jpg",
+      "path": "data/Strawberry Stuffed French Toast.jpg",
+      "bytes": 2652373
+    },
+    {
+      "itemId": "ft-oreo",
+      "name": "Once Stuffed French Toast",
+      "file": "Once Stuffed French Toast.jpg",
+      "path": "data/Once Stuffed French Toast.jpg",
+      "bytes": 773906
+    },
+    {
+      "itemId": "side-home-fries",
+      "name": "Seasoned Home Fries",
+      "file": "Seasoned Home Fries.jpg",
+      "path": "data/Seasoned Home Fries.jpg",
+      "bytes": 1097461
+    },
+    {
+      "itemId": "side-silver-dollar",
+      "name": "Silver Dollar Fries (Chips)",
+      "file": "Silver Dollar Fries (Chips).jpg",
+      "path": "data/Silver Dollar Fries (Chips).jpg",
+      "bytes": 797575
+    },
+    {
+      "itemId": "side-hash-patty",
+      "name": "Hash Brown Patty",
+      "file": "Hash Brown Patty.jpg",
+      "path": "data/Hash Brown Patty.jpg",
+      "bytes": 176847
+    },
+    {
+      "itemId": "side-breakfast-meat",
+      "name": "Side of Breakfast Meat",
+      "file": "Side of Breakfast Meat.jpg",
+      "path": "data/Side of Breakfast Meat.jpg",
+      "bytes": 2936383
+    },
+    {
+      "itemId": "side-cream-cheese",
+      "name": "Side of Cream Cheese",
+      "file": "Side of Cream Cheese.jpg",
+      "path": "data/Side of Cream Cheese.jpg",
+      "bytes": 1296634
+    },
+    {
+      "itemId": "side-fruit-salad",
+      "name": "Fruit Salad",
+      "file": "Fruit Salad.jpg",
+      "path": "data/Fruit Salad.jpg",
+      "bytes": 2746009
+    },
+    {
+      "itemId": "side-watermelon",
+      "name": "Watermelon",
+      "file": "Watermelon.jpg",
+      "path": "data/Watermelon.jpg",
+      "bytes": 2924248
+    },
+    {
+      "itemId": "side-chobani",
+      "name": "Chobani Yogurt",
+      "file": "Chobani Yogurt.jpg",
+      "path": "data/Chobani Yogurt.jpg",
+      "bytes": 1594729
+    },
+    {
+      "itemId": "salad-garden",
+      "name": "Perfect Garden Salad",
+      "file": "Perfect Garden Salad.jpg",
+      "path": "data/Perfect Garden Salad.jpg",
+      "bytes": 3052097
+    },
+    {
+      "itemId": "salad-cobb",
+      "name": "Chopped Cobb Salad",
+      "file": "Chopped Cobb Salad.jpg",
+      "path": "data/Chopped Cobb Salad.jpg",
+      "bytes": 1816588
+    },
+    {
+      "itemId": "salad-green-dream",
+      "name": "Green Dream Salad",
+      "file": "Green Dream Salad.jpg",
+      "path": "data/Green Dream Salad.jpg",
+      "bytes": 4373949
+    },
+    {
+      "itemId": "salad-caesar",
+      "name": "Caesar Salad",
+      "file": "Caesar Salad.jpg",
+      "path": "data/Caesar Salad.jpg",
+      "bytes": 1367429
+    },
+    {
+      "itemId": "salad-greek",
+      "name": "Chopped Greek Salad",
+      "file": "Chopped Greek Salad.jpg",
+      "path": "data/Chopped Greek Salad.jpg",
+      "bytes": 2632795
+    },
+    {
+      "itemId": "deli-tuna",
+      "name": "White Tuna Salad (1/4 lb)",
+      "file": "White Tuna Salad (1 upon 4 lb).jfif",
+      "path": "data/White Tuna Salad (1 upon 4 lb).jfif",
+      "bytes": 13303
+    },
+    {
+      "itemId": "deli-veggie-tuna",
+      "name": "Low Fat Veggie Tuna Salad (1/4 lb)",
+      "file": "Low Fat Veggie Tuna Salad( 1 upon 4 lb).jpg",
+      "path": "data/Low Fat Veggie Tuna Salad( 1 upon 4 lb).jpg",
+      "bytes": 2990521
+    },
+    {
+      "itemId": "deli-chicken",
+      "name": "White Chicken Salad (1/4 lb)",
+      "file": "White Chicken Salad( 1 upon 4 lb ).jpg",
+      "path": "data/White Chicken Salad( 1 upon 4 lb ).jpg",
+      "bytes": 745215
+    },
+    {
+      "itemId": "deli-cranberry-chicken",
+      "name": "Cranberry Walnut Chicken Salad (1/4 lb)",
+      "file": "Cranberry Walnut Chicken Salad( 1 upon 4 lb ).jpg",
+      "path": "data/Cranberry Walnut Chicken Salad( 1 upon 4 lb ).jpg",
+      "bytes": 3003651
+    },
+    {
+      "itemId": "deli-shrimp",
+      "name": "Shrimp Salad (1/4 lb)",
+      "file": "Shrimp Salad ( 1 upon 4 lb ).jpg",
+      "path": "data/Shrimp Salad ( 1 upon 4 lb ).jpg",
+      "bytes": 1395420
+    },
+    {
+      "itemId": "deli-egg",
+      "name": "Egg Salad (1/4 lb)",
+      "file": "Egg Salad (1 upon 4 lb).jpg",
+      "path": "data/Egg Salad (1 upon 4 lb).jpg",
+      "bytes": 639454
+    },
+    {
+      "itemId": "deli-whitefish",
+      "name": "Whitefish Salad (1/4 lb)",
+      "file": "Whitefish Salad (1 upon 4 lb).jpg",
+      "path": "data/Whitefish Salad (1 upon 4 lb).jpg",
+      "bytes": 1298831
+    },
+    {
+      "itemId": "deli-salmon",
+      "name": "Baked Salmon Salad (1/4 lb)",
+      "file": "Baked Salmon Salad (1 upon 4 lb).jpg",
+      "path": "data/Baked Salmon Salad (1 upon 4 lb).jpg",
+      "bytes": 3041032
+    },
+    {
+      "itemId": "hot-grilled-chicken",
+      "name": "Grilled Chicken Sandwich",
+      "file": "Grilled Chicken Sandwich.jpg",
+      "path": "data/Grilled Chicken Sandwich.jpg",
+      "bytes": 526208
+    },
+    {
+      "itemId": "hot-chicken-blt",
+      "name": "Chicken BLT Sandwich",
+      "file": "Chicken BLT Sandwich.jpg",
+      "path": "data/Chicken BLT Sandwich.jpg",
+      "bytes": 5258997
+    },
+    {
+      "itemId": "hot-chicken-mozzarella",
+      "name": "Grilled Chicken, Roasted Peppers & Mozzarella Sandwich",
+      "file": "Grilled Chicken, Roasted Peppers & Mozzarella Sandwich.jpg",
+      "path": "data/Grilled Chicken, Roasted Peppers & Mozzarella Sandwich.jpg",
+      "bytes": 3003789
+    },
+    {
+      "itemId": "hot-crispy-chicken",
+      "name": "Crispy Chicken Sandwich",
+      "file": "Crispy Chicken Sandwich.jpg",
+      "path": "data/Crispy Chicken Sandwich.jpg",
+      "bytes": 831117
+    },
+    {
+      "itemId": "hot-spicy-crispy",
+      "name": "Spicy Crispy Chicken Sandwich",
+      "file": "Spicy Crispy Chicken Sandwich.jpg",
+      "path": "data/Spicy Crispy Chicken Sandwich.jpg",
+      "bytes": 2242714
+    },
+    {
+      "itemId": "hot-grilled-cheese",
+      "name": "Grilled Cheese Sandwich",
+      "file": "Grilled Cheese Sandwich.jpg",
+      "path": "data/Grilled Cheese Sandwich.jpg",
+      "bytes": 1530663
+    },
+    {
+      "itemId": "hot-grilled-cheese-blt",
+      "name": "Grilled Cheese w/ Bacon & Tomato Sandwich",
+      "file": "Grilled Cheese w Bacon & Tomato Sandwich.jpg",
+      "path": "data/Grilled Cheese w Bacon & Tomato Sandwich.jpg",
+      "bytes": 1606328
+    },
+    {
+      "itemId": "hot-blt",
+      "name": "BLT Sandwich",
+      "file": "BLT Sandwich.jpg",
+      "path": "data/BLT Sandwich.jpg",
+      "bytes": 932890
+    },
+    {
+      "itemId": "spec-cuban",
+      "name": "#1 The Cuban",
+      "file": "#1 The Cuban.jpg",
+      "path": "data/#1 The Cuban.jpg",
+      "bytes": 2825741
+    },
+    {
+      "itemId": "spec-reuben",
+      "name": "#2 The Reuben",
+      "file": "#2 The Reuben.jpg",
+      "path": "data/#2 The Reuben.jpg",
+      "bytes": 4036875
+    },
+    {
+      "itemId": "spec-gourmet-blt",
+      "name": "#3 The Gourmet BLT",
+      "file": "#3 The Gourmet BLT.jpg",
+      "path": "data/#3 The Gourmet BLT.jpg",
+      "bytes": 5707597
+    },
+    {
+      "itemId": "spec-beef-gyro",
+      "name": "#4 The Beef Gyro",
+      "file": "#4 The Beef Gyro.jpg",
+      "path": "data/#4 The Beef Gyro.jpg",
+      "bytes": 4572777
+    },
+    {
+      "itemId": "spec-gourmet-grilled-cheese",
+      "name": "#5 The Gourmet Grilled Cheese",
+      "file": "#5 The Gourmet Grilled Cheese.jpg",
+      "path": "data/#5 The Gourmet Grilled Cheese.jpg",
+      "bytes": 756568
+    },
+    {
+      "itemId": "spec-tuna-melt",
+      "name": "#6 Tuna Melt",
+      "file": "#6 Tuna Melt.jpg",
+      "path": "data/#6 Tuna Melt.jpg",
+      "bytes": 1856300
+    },
+    {
+      "itemId": "spec-sloppy-joe",
+      "name": "#7 The Sloppy Joe",
+      "file": "#7 The Sloppy Joe.jpg",
+      "path": "data/#7 The Sloppy Joe.jpg",
+      "bytes": 2991294
+    },
+    {
+      "itemId": "spec-turkey-club",
+      "name": "#8 The Turkey Club",
+      "file": "#8 The Turkey Club.jpg",
+      "path": "data/#8 The Turkey Club.jpg",
+      "bytes": 1731958
+    },
+    {
+      "itemId": "spec-pastrami-corned",
+      "name": "#9 The Pastrami & Corned Beef",
+      "file": "#9 The Pastrami & Corned Beef.jpg",
+      "path": "data/#9 The Pastrami & Corned Beef.jpg",
+      "bytes": 1679298
+    },
+    {
+      "itemId": "spec-cranberry",
+      "name": "#10 The Cranberry",
+      "file": "#10 The Cranberry.jpg",
+      "path": "data/#10 The Cranberry.jpg",
+      "bytes": 2613856
+    },
+    {
+      "itemId": "sub-philly",
+      "name": "Philly Cheesesteak Sub",
+      "file": "Philly Cheesesteak Sub.jpg",
+      "path": "data/Philly Cheesesteak Sub.jpg",
+      "bytes": 2177772
+    },
+    {
+      "itemId": "sub-chicken-philly",
+      "name": "Chicken Cheesesteak Sub",
+      "file": "Chicken Cheesesteak Sub.jpg",
+      "path": "data/Chicken Cheesesteak Sub.jpg",
+      "bytes": 999718
+    },
+    {
+      "itemId": "sub-crispy-blt",
+      "name": "Crispy Chicken BLT Sub",
+      "file": "Crispy Chicken BLT Sub.jpg",
+      "path": "data/Crispy Chicken BLT Sub.jpg",
+      "bytes": 360640
+    },
+    {
+      "itemId": "sub-buffalo-chicken",
+      "name": "Crispy Buffalo Chicken Sub",
+      "file": "Crispy Buffalo Chicken Sub.jpg",
+      "path": "data/Crispy Buffalo Chicken Sub.jpg",
+      "bytes": 2511978
+    },
+    {
+      "itemId": "hoagie-1",
+      "name": "#1 Ham & Cheese Sandwich",
+      "file": "#1 Ham & Cheese Sandwich.jpg",
+      "path": "data/#1 Ham & Cheese Sandwich.jpg",
+      "bytes": 1223483
+    },
+    {
+      "itemId": "hoagie-2",
+      "name": "#2 Ham, Salami & Cheese Sandwich",
+      "file": "#2 Ham, Salami & Cheese Sandwich.jpg",
+      "path": "data/#2 Ham, Salami & Cheese Sandwich.jpg",
+      "bytes": 2594823
+    },
+    {
+      "itemId": "hoagie-3",
+      "name": "#3 Ham, Turkey & Cheese Sandwich",
+      "file": "#3 Ham, Turkey & Cheese Sandwich.jpg",
+      "path": "data/#3 Ham, Turkey & Cheese Sandwich.jpg",
+      "bytes": 2699337
+    },
+    {
+      "itemId": "hoagie-4",
+      "name": "#4 Turkey & Cheese Sandwich",
+      "file": "#4 Turkey & Cheese Sandwich.jpg",
+      "path": "data/#4 Turkey & Cheese Sandwich.jpg",
+      "bytes": 1617300
+    },
+    {
+      "itemId": "hoagie-5",
+      "name": "#5 Italian Sandwich",
+      "file": "#5 Italian Sandwich.jpg",
+      "path": "data/#5 Italian Sandwich.jpg",
+      "bytes": 975060
+    },
+    {
+      "itemId": "hoagie-6",
+      "name": "#6 American Sandwich",
+      "file": "#6 American Sandwich.jpg",
+      "path": "data/#6 American Sandwich.jpg",
+      "bytes": 675227
+    },
+    {
+      "itemId": "hoagie-7",
+      "name": "#7 Sloppy Sandwich",
+      "file": "#7 Sloppy Sandwich.jpg",
+      "path": "data/#7 Sloppy Sandwich.jpg",
+      "bytes": 2745560
+    },
+    {
+      "itemId": "hoagie-8",
+      "name": "#8 Corned Beef & Pastrami Sandwich",
+      "file": "#8 Corned Beef & Pastrami Sandwich.jpg",
+      "path": "data/#8 Corned Beef & Pastrami Sandwich.jpg",
+      "bytes": 6268409
+    },
+    {
+      "itemId": "hoagie-9",
+      "name": "#9 Roast Beef & Cheese Sandwich",
+      "file": "#9 Roast Beef & Cheese Sandwich.jpg",
+      "path": "data/#9 Roast Beef & Cheese Sandwich.jpg",
+      "bytes": 1208609
+    },
+    {
+      "itemId": "hoagie-10",
+      "name": "#10 Bologna & Cheese Sandwich",
+      "file": "#10 Bologna & Cheese Sandwich.jpg",
+      "path": "data/#10 Bologna & Cheese Sandwich.jpg",
+      "bytes": 4930035
+    },
+    {
+      "itemId": "hoagie-11",
+      "name": "#11 Liverwurst Sandwich",
+      "file": "#11 Liverwurst Sandwich.jpg",
+      "path": "data/#11 Liverwurst Sandwich.jpg",
+      "bytes": 2066191
+    },
+    {
+      "itemId": "hoagie-12",
+      "name": "#12 Honey Maple Turkey & Cheese Sandwich",
+      "file": "#12 Honey Maple Turkey & Cheese Sandwich.jpg",
+      "path": "data/#12 Honey Maple Turkey & Cheese Sandwich.jpg",
+      "bytes": 1319673
+    },
+    {
+      "itemId": "salad-sand-tuna",
+      "name": "#13 White Tuna Sandwich",
+      "file": "#13 White Tuna Sandwich.jpg",
+      "path": "data/#13 White Tuna Sandwich.jpg",
+      "bytes": 2949642
+    },
+    {
+      "itemId": "salad-sand-veggie-tuna",
+      "name": "#14 Low Fat Veggie Tuna Sandwich",
+      "file": "#14 Low Fat Veggie Tuna Sandwich.jpg",
+      "path": "data/#14 Low Fat Veggie Tuna Sandwich.jpg",
+      "bytes": 517642
+    },
+    {
+      "itemId": "salad-sand-chicken",
+      "name": "#15 White Chicken Salad Sandwich",
+      "file": "#15 White Chicken Salad Sandwich.jpg",
+      "path": "data/#15 White Chicken Salad Sandwich.jpg",
+      "bytes": 2906074
+    },
+    {
+      "itemId": "salad-sand-cranberry",
+      "name": "#16 Cranberry Walnut Chicken Salad Sandwich",
+      "file": "#16 Cranberry Walnut Chicken Salad Sandwich.jpg",
+      "path": "data/#16 Cranberry Walnut Chicken Salad Sandwich.jpg",
+      "bytes": 4024398
+    },
+    {
+      "itemId": "salad-sand-shrimp",
+      "name": "#17 Shrimp Salad Sandwich",
+      "file": "#17 Shrimp Salad Sandwich.jpg",
+      "path": "data/#17 Shrimp Salad Sandwich.jpg",
+      "bytes": 2595882
+    },
+    {
+      "itemId": "salad-sand-egg",
+      "name": "#18 Egg Salad Sandwich",
+      "file": "#18 Egg Salad Sandwich.jpg",
+      "path": "data/#18 Egg Salad Sandwich.jpg",
+      "bytes": 2088968
+    },
+    {
+      "itemId": "salad-sand-whitefish",
+      "name": "#19 Whitefish Salad Sandwich",
+      "file": "#19 Whitefish Salad Sandwich.jpg",
+      "path": "data/#19 Whitefish Salad Sandwich.jpg",
+      "bytes": 3299703
+    },
+    {
+      "itemId": "salad-sand-salmon",
+      "name": "#20 Baked Salmon Salad Sandwich",
+      "file": "#20 Baked Salmon Salad Sandwich.jpg",
+      "path": "data/#20 Baked Salmon Salad Sandwich.jpg",
+      "bytes": 533928
+    },
+    {
+      "itemId": "veg-all-veggies",
+      "name": "#21 All Fresh Veggies Sandwich",
+      "file": "#21 All Fresh Veggies Sandwich.jpg",
+      "path": "data/#21 All Fresh Veggies Sandwich.jpg",
+      "bytes": 1400702
+    },
+    {
+      "itemId": "veg-cheese-combo",
+      "name": "#22 Veggie & Cheese Combo Sandwich",
+      "file": "#22 Veggie & Cheese Combo Sandwich.jpg",
+      "path": "data/#22 Veggie & Cheese Combo Sandwich.jpg",
+      "bytes": 2805458
+    },
+    {
+      "itemId": "panini-1",
+      "name": "#1 Honey Maple Turkey Panini",
+      "file": "#1 Honey Maple Turkey Panini.jpg",
+      "path": "data/#1 Honey Maple Turkey Panini.jpg",
+      "bytes": 7074443
+    },
+    {
+      "itemId": "panini-2",
+      "name": "#2 Italian Combo Panini",
+      "file": "#2 Italian Combo Panini.jpg",
+      "path": "data/#2 Italian Combo Panini.jpg",
+      "bytes": 924118
+    },
+    {
+      "itemId": "panini-3",
+      "name": "#3 Cali Turkey Panini",
+      "file": "#3 Cali Turkey Panini.jpg",
+      "path": "data/#3 Cali Turkey Panini.jpg",
+      "bytes": 3926065
+    },
+    {
+      "itemId": "panini-4",
+      "name": "#4 Chipotle Grilled Chicken Panini",
+      "file": "#4 Chipotle Grilled Chicken Panini.jpg",
+      "path": "data/#4 Chipotle Grilled Chicken Panini.jpg",
+      "bytes": 1299324
+    },
+    {
+      "itemId": "panini-5",
+      "name": "#5 BBQ Chicken Panini",
+      "file": "#5 BBQ Chicken Panini.jpg",
+      "path": "data/#5 BBQ Chicken Panini.jpg",
+      "bytes": 1474597
+    },
+    {
+      "itemId": "wrap-hot-1",
+      "name": "#1 Balsamic Chicken Wrap",
+      "file": "#1 Balsamic Chicken Wrap.jpg",
+      "path": "data/#1 Balsamic Chicken Wrap.jpg",
+      "bytes": 738657
+    },
+    {
+      "itemId": "wrap-hot-2",
+      "name": "#2 Crispy Honey Chicken Wrap",
+      "file": "#2 Crispy Honey Chicken Wrap.jpg",
+      "path": "data/#2 Crispy Honey Chicken Wrap.jpg",
+      "bytes": 827455
+    },
+    {
+      "itemId": "wrap-hot-3",
+      "name": "#3 Cali Chicken Grilled Wrap",
+      "file": "#3 Cali Chicken Grilled Wrap.jpg",
+      "path": "data/#3 Cali Chicken Grilled Wrap.jpg",
+      "bytes": 1720230
+    },
+    {
+      "itemId": "wrap-hot-4",
+      "name": "#4 Crispy Buffalo Chicken Wrap",
+      "file": "#4 Crispy Buffalo Chicken Wrap.jpg",
+      "path": "data/#4 Crispy Buffalo Chicken Wrap.jpg",
+      "bytes": 966324
+    },
+    {
+      "itemId": "wrap-hot-5",
+      "name": "#5 Grilled Chicken Caesar Wrap",
+      "file": "#5 Grilled Chicken Caesar Wrap.jpg",
+      "path": "data/#5 Grilled Chicken Caesar Wrap.jpg",
+      "bytes": 1188285
+    },
+    {
+      "itemId": "wrap-cold-6",
+      "name": "#6 Turkey BLT Wrap",
+      "file": "#6 Turkey BLT Wrap.jpg",
+      "path": "data/#6 Turkey BLT Wrap.jpg",
+      "bytes": 1081281
+    },
+    {
+      "itemId": "wrap-cold-7",
+      "name": "#7 New Yorker Wrap",
+      "file": "#7 New Yorker Wrap.jpg",
+      "path": "data/#7 New Yorker Wrap.jpg",
+      "bytes": 1837484
+    },
+    {
+      "itemId": "wrap-cold-8",
+      "name": "#8 Light Veggie Tuna Wrap",
+      "file": "#8 Light Veggie Tuna Wrap.jpg",
+      "path": "data/#8 Light Veggie Tuna Wrap.jpg",
+      "bytes": 2657693
+    },
+    {
+      "itemId": "wrap-cold-9",
+      "name": "#9 Cali Honey Turkey Wrap",
+      "file": "#9 Cali Honey Turkey Wrap.jpg",
+      "path": "data/#9 Cali Honey Turkey Wrap.jpg",
+      "bytes": 1750938
+    },
+    {
+      "itemId": "wrap-cold-10",
+      "name": "#10 Chicken Salad BLT Wrap",
+      "file": "#10 Chicken Salad BLT Wrap.jpg",
+      "path": "data/#10 Chicken Salad BLT Wrap.jpg",
+      "bytes": 2300579
+    },
+    {
+      "itemId": "quesadilla-cheese",
+      "name": "Cheese Quesadilla",
+      "file": "Cheese Quesadilla.jpg",
+      "path": "data/Cheese Quesadilla.jpg",
+      "bytes": 339150
+    },
+    {
+      "itemId": "quesadilla-chicken",
+      "name": "Chicken & Cheese Quesadilla",
+      "file": "Chicken & Cheese Quesadilla.jpg",
+      "path": "data/Chicken & Cheese Quesadilla.jpg",
+      "bytes": 2471905
+    },
+    {
+      "itemId": "quesadilla-chicken-bacon",
+      "name": "Chicken, Bacon & Ranch Quesadilla",
+      "file": "Chicken, Bacon & Ranch Quesadilla.jpg",
+      "path": "data/Chicken, Bacon & Ranch Quesadilla.jpg",
+      "bytes": 2863936
+    },
+    {
+      "itemId": "quesadilla-buffalo",
+      "name": "Buffalo Chicken Ranch Quesadilla",
+      "file": "Buffalo Chicken Ranch Quesadilla.jpg",
+      "path": "data/Buffalo Chicken Ranch Quesadilla.jpg",
+      "bytes": 885419
+    },
+    {
+      "itemId": "burger-cheese",
+      "name": "Cheeseburger",
+      "file": "Cheeseburger.jpg",
+      "path": "data/Cheeseburger.jpg",
+      "bytes": 485188
+    },
+    {
+      "itemId": "burger-bacon",
+      "name": "Bacon Cheeseburger",
+      "file": "Bacon Cheeseburger.jpg",
+      "path": "data/Bacon Cheeseburger.jpg",
+      "bytes": 3248972
+    },
+    {
+      "itemId": "burger-turkey",
+      "name": "Turkey Cheeseburger",
+      "file": "Turkey Cheeseburger.jpg",
+      "path": "data/Turkey Cheeseburger.jpg",
+      "bytes": 2900914
+    },
+    {
+      "itemId": "burger-mushroom-swiss",
+      "name": "Mushroom Swiss Burger",
+      "file": "Mushroom Swiss Burger.jpg",
+      "path": "data/Mushroom Swiss Burger.jpg",
+      "bytes": 1248135
+    },
+    {
+      "itemId": "burger-breakfast",
+      "name": "Breakfast Burger",
+      "file": "Breakfast Burger.jpg",
+      "path": "data/Breakfast Burger.jpg",
+      "bytes": 1228842
+    },
+    {
+      "itemId": "burger-avocado",
+      "name": "Avocado Burger",
+      "file": "Avocado Burger.jpg",
+      "path": "data/Avocado Burger.jpg",
+      "bytes": 435877
+    },
+    {
+      "itemId": "burger-chipotle",
+      "name": "Chipotle Burger",
+      "file": "Chipotle Burger.jpg",
+      "path": "data/Chipotle Burger.jpg",
+      "bytes": 1071788
+    },
+    {
+      "itemId": "burger-kosher-deli",
+      "name": "Kosher Deli Burger",
+      "file": "Kosher Deli Burger.jpg",
+      "path": "data/Kosher Deli Burger.jpg",
+      "bytes": 946011
+    },
+    {
+      "itemId": "hotdog-beef",
+      "name": "All Beef Hot Dog",
+      "file": "All Beef Hot Dog.jpg",
+      "path": "data/All Beef Hot Dog.jpg",
+      "bytes": 3750654
+    },
+    {
+      "itemId": "hotdog-italian",
+      "name": "Italian Hot Dog",
+      "file": "Italian Hot Dog.jpg",
+      "path": "data/Italian Hot Dog.jpg",
+      "bytes": 1191764
+    },
+    {
+      "itemId": "side-fries",
+      "name": "French Fries",
+      "file": "French Fries.jpg",
+      "path": "data/French Fries.jpg",
+      "bytes": 2214315
+    },
+    {
+      "itemId": "side-onion-rings",
+      "name": "Onion Rings",
+      "file": "Onion Rings.jpg",
+      "path": "data/Onion Rings.jpg",
+      "bytes": 1240079
+    },
+    {
+      "itemId": "side-tenders-3",
+      "name": "Chicken Tenders (3)",
+      "file": "Chicken Tenders (3).jpg",
+      "path": "data/Chicken Tenders (3).jpg",
+      "bytes": 1604163
+    },
+    {
+      "itemId": "side-tenders-5",
+      "name": "Chicken Tenders (5)",
+      "file": "Chicken Tenders (5).jpg",
+      "path": "data/Chicken Tenders (5).jpg",
+      "bytes": 1318632
+    },
+    {
+      "itemId": "side-wings-6",
+      "name": "Buffalo Wings (6)",
+      "file": "Buffalo Wings (6).jpg",
+      "path": "data/Buffalo Wings (6).jpg",
+      "bytes": 4243347
+    },
+    {
+      "itemId": "side-wings-12",
+      "name": "Buffalo Wings (12)",
+      "file": "Buffalo Wings (12).jpg",
+      "path": "data/Buffalo Wings (12).jpg",
+      "bytes": 1067416
+    },
+    {
+      "itemId": "bev-iced-tea",
+      "name": "Fresh Brewed Iced Tea",
+      "file": "Fresh Brewed Iced Tea.jpg",
+      "path": "data/Fresh Brewed Iced Tea.jpg",
+      "bytes": 809648
+    },
+    {
+      "itemId": "bev-iced-tea-flavored",
+      "name": "Flavored Fresh Brewed Iced Tea",
+      "file": "Flavored Fresh Brewed Iced Tea.jpg",
+      "path": "data/Flavored Fresh Brewed Iced Tea.jpg",
+      "bytes": 2146609
+    },
+    {
+      "itemId": "bev-lemonade",
+      "name": "Fresh Lemonade",
+      "file": "Fresh Lemonade.jpg",
+      "path": "data/Fresh Lemonade.jpg",
+      "bytes": 936839
+    },
+    {
+      "itemId": "bev-lemonade-flavored",
+      "name": "Flavored Fresh Lemonade",
+      "file": "Flavored Fresh Lemonade.jpg",
+      "path": "data/Flavored Fresh Lemonade.jpg",
+      "bytes": 1914752
+    },
+    {
+      "itemId": "bev-smoothie",
+      "name": "Fruit Smoothies",
+      "file": "Fruit Smoothies.jpg",
+      "path": "data/Fruit Smoothies.jpg",
+      "bytes": 754335
+    },
+    {
+      "itemId": "bev-canned-soda",
+      "name": "Canned Soda",
+      "file": "Canned Soda.jpg",
+      "path": "data/Canned Soda.jpg",
+      "bytes": 1341473
+    },
+    {
+      "itemId": "bev-bottled-soda",
+      "name": "Bottled Soda (20 oz.)",
+      "file": "Bottled Soda (20 oz.).jpg",
+      "path": "data/Bottled Soda (20 oz.).jpg",
+      "bytes": 3019556
+    },
+    {
+      "itemId": "bev-snapple",
+      "name": "Snapple (16oz.)",
+      "file": "Snapple (16oz.).jfif",
+      "path": "data/Snapple (16oz.).jfif",
+      "bytes": 20097
+    },
+    {
+      "itemId": "bev-gatorade",
+      "name": "Gatorade",
+      "file": "Gatorade.jfif",
+      "path": "data/Gatorade.jfif",
+      "bytes": 10857
+    },
+    {
+      "itemId": "bev-arizona",
+      "name": "Arizona (20oz.)",
+      "file": "Arizona (20oz.).jfif",
+      "path": "data/Arizona (20oz.).jfif",
+      "bytes": 9717
+    },
+    {
+      "itemId": "bev-vitamin-water",
+      "name": "Vitamin Water",
+      "file": "Vitamin Water.jpg",
+      "path": "data/Vitamin Water.jpg",
+      "bytes": 639502
+    },
+    {
+      "itemId": "bev-monster",
+      "name": "Monster",
+      "file": "Monster.jfif",
+      "path": "data/Monster.jfif",
+      "bytes": 8005
+    },
+    {
+      "itemId": "bev-bang",
+      "name": "Bang",
+      "file": "Bang 4.25.jfif",
+      "path": "data/Bang 4.25.jfif",
+      "bytes": 15327
+    },
+    {
+      "itemId": "bev-bang-alt",
+      "name": "Bang",
+      "file": "Bang 4.49.jfif",
+      "path": "data/Bang 4.49.jfif",
+      "bytes": 10401
+    },
+    {
+      "itemId": "bev-bai",
+      "name": "Bai",
+      "file": "Bai.jfif",
+      "path": "data/Bai.jfif",
+      "bytes": 11329
+    },
+    {
+      "itemId": "bev-calypso",
+      "name": "Calypso",
+      "file": "calypso.jfif",
+      "path": "data/calypso.jfif",
+      "bytes": 18225
+    },
+    {
+      "itemId": "bev-poland-sparkling",
+      "name": "Poland Spring Sparkling Water",
+      "file": "Poland Spring Sparkling Water.jfif",
+      "path": "data/Poland Spring Sparkling Water.jfif",
+      "bytes": 3618
+    },
+    {
+      "itemId": "bev-tropicana-12",
+      "name": "Tropicana (12oz.)",
+      "file": "Tropicana (12oz.).jfif",
+      "path": "data/Tropicana (12oz.).jfif",
+      "bytes": 6775
+    },
+    {
+      "itemId": "bev-tropicana-16",
+      "name": "Tropicana (16oz.)",
+      "file": "Tropicana (16oz.).jfif",
+      "path": "data/Tropicana (16oz.).jfif",
+      "bytes": 11965
+    },
+    {
+      "itemId": "bev-tropicana-gallon",
+      "name": "Tropicana Orange Juice (Gallon)",
+      "file": "Tropicana Orange Juice (Gallon).jfif",
+      "path": "data/Tropicana Orange Juice (Gallon).jfif",
+      "bytes": 5966
+    },
+    {
+      "itemId": "bev-choc-milk-16",
+      "name": "Cream o Land Chocolate Milk (16oz)",
+      "file": "Cream o Land Chocolate Milk (16oz).jfif",
+      "path": "data/Cream o Land Chocolate Milk (16oz).jfif",
+      "bytes": 6911
+    },
+    {
+      "itemId": "bev-choc-milk-quart",
+      "name": "Cream o Land Chocolate Milk (quart)",
+      "file": "Cream o Land Chocolate Milk (quart).jfif",
+      "path": "data/Cream o Land Chocolate Milk (quart).jfif",
+      "bytes": 4850
+    },
+    {
+      "itemId": "bev-nesquik",
+      "name": "Nesquik",
+      "file": "Nesquik.jfif",
+      "path": "data/Nesquik.jfif",
+      "bytes": 12742
+    },
+    {
+      "itemId": "bev-yoohoo",
+      "name": "Yoohoo",
+      "file": "Yoohoo.jfif",
+      "path": "data/Yoohoo.jfif",
+      "bytes": 7006
+    },
+    {
+      "itemId": "bev-red-bull",
+      "name": "Red Bull",
+      "file": "Red Bull.jfif",
+      "path": "data/Red Bull.jfif",
+      "bytes": 5998
+    },
+    {
+      "itemId": "bev-red-bull-diet",
+      "name": "Diet Red Bull (8oz)",
+      "file": "Diet Red Bull (8oz).jfif",
+      "path": "data/Diet Red Bull (8oz).jfif",
+      "bytes": 6674
+    },
+    {
+      "itemId": "bev-sbux-frap-95",
+      "name": "Starbucks Frappuccino Coffee Flavor (9.5 oz)",
+      "file": "Starbucks Frappuccino Coffee Flavor (9.5 oz).jfif",
+      "path": "data/Starbucks Frappuccino Coffee Flavor (9.5 oz).jfif",
+      "bytes": 9640
+    },
+    {
+      "itemId": "bev-sbux-frap-13",
+      "name": "Starbucks Frappuccino (13oz)",
+      "file": "Starbucks Frappuccino (13oz).jfif",
+      "path": "data/Starbucks Frappuccino (13oz).jfif",
+      "bytes": 6829
+    },
+    {
+      "itemId": "bev-sbux-double",
+      "name": "Starbucks Double Shot",
+      "file": "Starbucks Double Shot.jfif",
+      "path": "data/Starbucks Double Shot.jfif",
+      "bytes": 6855
+    },
+    {
+      "itemId": "bev-poland-water",
+      "name": "Poland Spring Bottled Water",
+      "file": "Poland Spring Bottled Water.jfif",
+      "path": "data/Poland Spring Bottled Water.jfif",
+      "bytes": 3984
+    },
+    {
+      "itemId": "bev-fiji",
+      "name": "Fiji Water",
+      "file": "Fiji Water.jfif",
+      "path": "data/Fiji Water.jfif",
+      "bytes": 6200
+    },
+    {
+      "itemId": "bev-essentia",
+      "name": "Essentia Water",
+      "file": "Essentia Water.jfif",
+      "path": "data/Essentia Water.jfif",
+      "bytes": 7265
+    }
+  ],
+  "unmatched": [],
+  "broken": [],
+  "duplicatesPrevented": [],
+  "unusedFiles": []
+}

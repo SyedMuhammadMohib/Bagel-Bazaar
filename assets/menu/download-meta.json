@@ -1,0 +1,1266 @@
+{
+  "downloadMeta": {
+    "coffee-drip": {
+      "path": "assets/menu/coffee/coffee-drip.jpg",
+      "source": "local-stock",
+      "bytes": 59123,
+      "cached": true
+    },
+    "espresso-single": {
+      "path": "assets/menu/coffee/espresso-single.jpg",
+      "source": "local-stock",
+      "bytes": 60854,
+      "cached": true
+    },
+    "espresso-double": {
+      "path": "assets/menu/coffee/espresso-double.jpg",
+      "source": "local-stock",
+      "bytes": 50562,
+      "cached": true
+    },
+    "cappuccino-hot": {
+      "path": "assets/menu/coffee/cappuccino-hot.jpg",
+      "source": "local-stock",
+      "bytes": 14310,
+      "cached": true
+    },
+    "cappuccino-flavored": {
+      "path": "assets/menu/coffee/cappuccino-flavored.jpg",
+      "source": "local-stock",
+      "bytes": 47378,
+      "cached": true
+    },
+    "latte-iced": {
+      "path": "assets/menu/coffee/latte-iced.jpg",
+      "source": "local-stock",
+      "bytes": 39548,
+      "cached": true
+    },
+    "latte-iced-flavored": {
+      "path": "assets/menu/coffee/latte-iced-flavored.jpg",
+      "source": "local-stock",
+      "bytes": 47547,
+      "cached": true
+    },
+    "coffee-iced": {
+      "path": "assets/menu/coffee/coffee-iced.jpg",
+      "source": "local-stock",
+      "bytes": 24278,
+      "cached": true
+    },
+    "coffee-iced-flavored": {
+      "path": "assets/menu/coffee/coffee-iced-flavored.jpg",
+      "source": "local-stock",
+      "bytes": 51346,
+      "cached": true
+    },
+    "frappe-frozen": {
+      "path": "assets/menu/coffee/frappe-frozen.jpg",
+      "source": "local-stock",
+      "bytes": 35260,
+      "cached": true
+    },
+    "frappe-flavored": {
+      "path": "assets/menu/coffee/frappe-flavored.jpg",
+      "source": "local-stock",
+      "bytes": 64305,
+      "cached": true
+    },
+    "box-o-joe": {
+      "path": "assets/menu/coffee/box-o-joe.jpg",
+      "source": "local-stock",
+      "bytes": 114622,
+      "cached": true
+    },
+    "bagel-1": {
+      "path": "assets/menu/bagels/bagel-1.jpg",
+      "source": "local-stock",
+      "bytes": 50600,
+      "cached": true
+    },
+    "bagel-special-1": {
+      "path": "assets/menu/bagels/bagel-special-1.jpg",
+      "source": "bagel-bazaar-site",
+      "bytes": 550894,
+      "cached": true
+    },
+    "bagel-special-2": {
+      "path": "assets/menu/bagels/bagel-special-2.jpg",
+      "source": "local-stock",
+      "bytes": 40164,
+      "cached": true
+    },
+    "spread-butter": {
+      "path": "assets/menu/spreads/spread-butter.jpg",
+      "source": "local-stock",
+      "bytes": 37470,
+      "cached": true
+    },
+    "spread-cinna-butter": {
+      "path": "assets/menu/spreads/spread-cinna-butter.jpg",
+      "source": "local-stock",
+      "bytes": 54674,
+      "cached": true
+    },
+    "spread-peanut-butter": {
+      "path": "assets/menu/spreads/spread-peanut-butter.jpg",
+      "source": "local-stock",
+      "bytes": 35638,
+      "cached": true
+    },
+    "spread-nutella": {
+      "path": "assets/menu/spreads/spread-nutella.jpg",
+      "source": "local-stock",
+      "bytes": 40857,
+      "cached": true
+    },
+    "spread-jelly": {
+      "path": "assets/menu/spreads/spread-jelly.jpg",
+      "source": "local-stock",
+      "bytes": 69247,
+      "cached": true
+    },
+    "spread-plain-cc": {
+      "path": "assets/menu/spreads/spread-plain-cc.jpg",
+      "source": "local-stock",
+      "bytes": 51571,
+      "cached": true
+    },
+    "spread-veggie-cc": {
+      "path": "assets/menu/spreads/spread-veggie-cc.jpg",
+      "source": "local-stock",
+      "bytes": 47328,
+      "cached": true
+    },
+    "spread-scallion-cc": {
+      "path": "assets/menu/spreads/spread-scallion-cc.jpg",
+      "source": "local-stock",
+      "bytes": 46971,
+      "cached": true
+    },
+    "spread-lox-spread": {
+      "path": "assets/menu/spreads/spread-lox-spread.jpg",
+      "source": "local-stock",
+      "bytes": 37403,
+      "cached": true
+    },
+    "spread-walnut-cc": {
+      "path": "assets/menu/spreads/spread-walnut-cc.jpg",
+      "source": "local-stock",
+      "bytes": 43489,
+      "cached": true
+    },
+    "spread-strawberry-cc": {
+      "path": "assets/menu/spreads/spread-strawberry-cc.jpg",
+      "source": "local-stock",
+      "bytes": 58244,
+      "cached": true
+    },
+    "spread-jalapeno-cc": {
+      "path": "assets/menu/spreads/spread-jalapeno-cc.jpg",
+      "source": "local-stock",
+      "bytes": 63697,
+      "cached": true
+    },
+    "spread-oreo-cc": {
+      "path": "assets/menu/spreads/spread-oreo-cc.jpg",
+      "source": "local-stock",
+      "bytes": 44880,
+      "cached": true
+    },
+    "spread-bacon-cc": {
+      "path": "assets/menu/spreads/spread-bacon-cc.jpg",
+      "source": "local-stock",
+      "bytes": 68611,
+      "cached": true
+    },
+    "spread-lite-veggie-cc": {
+      "path": "assets/menu/spreads/spread-lite-veggie-cc.jpg",
+      "source": "local-stock",
+      "bytes": 47260,
+      "cached": true
+    },
+    "spread-olive-cc": {
+      "path": "assets/menu/spreads/spread-olive-cc.jpg",
+      "source": "local-stock",
+      "bytes": 31398,
+      "cached": true
+    },
+    "lox-plain-cc": {
+      "path": "assets/menu/lox/lox-plain-cc.jpg",
+      "source": "bagel-bazaar-site",
+      "bytes": 222505,
+      "cached": true
+    },
+    "lox-veggie-cc": {
+      "path": "assets/menu/lox/lox-veggie-cc.jpg",
+      "source": "local-stock",
+      "bytes": 60724,
+      "cached": true
+    },
+    "lox-scallion-cc": {
+      "path": "assets/menu/lox/lox-scallion-cc.jpg",
+      "source": "local-stock",
+      "bytes": 71963,
+      "cached": true
+    },
+    "lox-whitefish": {
+      "path": "assets/menu/lox/lox-whitefish.jpg",
+      "source": "local-stock",
+      "bytes": 127709,
+      "cached": true
+    },
+    "tub-plain-cc": {
+      "path": "assets/menu/spreads/tub-plain-cc.jpg",
+      "source": "local-stock",
+      "bytes": 30894,
+      "cached": true
+    },
+    "tub-flavored-cc": {
+      "path": "assets/menu/spreads/tub-flavored-cc.jpg",
+      "source": "local-stock",
+      "bytes": 12456,
+      "cached": true
+    },
+    "tub-plain-butter": {
+      "path": "assets/menu/spreads/tub-plain-butter.jpg",
+      "source": "local-stock",
+      "bytes": 59084,
+      "cached": true
+    },
+    "tub-flavored-butter": {
+      "path": "assets/menu/spreads/tub-flavored-butter.jpg",
+      "source": "local-stock",
+      "bytes": 37252,
+      "cached": true
+    },
+    "tub-jelly": {
+      "path": "assets/menu/spreads/tub-jelly.jpg",
+      "source": "local-stock",
+      "bytes": 44232,
+      "cached": true
+    },
+    "lox-slices": {
+      "path": "assets/menu/lox/lox-slices.jpg",
+      "source": "local-stock",
+      "bytes": 62183,
+      "cached": true
+    },
+    "bakery-muffin": {
+      "path": "assets/menu/breakfast/bakery-muffin.jpg",
+      "source": "local-stock",
+      "bytes": 11314,
+      "cached": true
+    },
+    "bakery-cookie": {
+      "path": "assets/menu/breakfast/bakery-cookie.jpg",
+      "source": "local-stock",
+      "bytes": 27225,
+      "cached": true
+    },
+    "bakery-crumb-cake": {
+      "path": "assets/menu/breakfast/bakery-crumb-cake.jpg",
+      "source": "local-stock",
+      "bytes": 55196,
+      "cached": true
+    },
+    "bakery-brownie": {
+      "path": "assets/menu/breakfast/bakery-brownie.jpg",
+      "source": "local-stock",
+      "bytes": 85876,
+      "cached": true
+    },
+    "bakery-blondie": {
+      "path": "assets/menu/breakfast/bakery-blondie.jpg",
+      "source": "local-stock",
+      "bytes": 38303,
+      "cached": true
+    },
+    "burrito-1": {
+      "path": "assets/menu/breakfast/burrito-1.jpg",
+      "source": "local-stock",
+      "bytes": 28170,
+      "cached": true
+    },
+    "burrito-2": {
+      "path": "assets/menu/breakfast/burrito-2.jpg",
+      "source": "local-stock",
+      "bytes": 11556,
+      "cached": true
+    },
+    "burrito-3": {
+      "path": "assets/menu/breakfast/burrito-3.jpg",
+      "source": "local-stock",
+      "bytes": 57681,
+      "cached": true
+    },
+    "bfast-quesadilla-4": {
+      "path": "assets/menu/breakfast/bfast-quesadilla-4.jpg",
+      "source": "local-stock",
+      "bytes": 99965,
+      "cached": true
+    },
+    "bfast-quesadilla-5": {
+      "path": "assets/menu/breakfast/bfast-quesadilla-5.jpg",
+      "source": "local-stock",
+      "bytes": 65944,
+      "cached": true
+    },
+    "bfast-quesadilla-6": {
+      "path": "assets/menu/breakfast/bfast-quesadilla-6.jpg",
+      "source": "local-stock",
+      "bytes": 66888,
+      "cached": true
+    },
+    "bfast-egg": {
+      "path": "assets/menu/breakfast/bfast-egg.jpg",
+      "source": "local-stock",
+      "bytes": 74278,
+      "cached": true
+    },
+    "bfast-egg-cheese": {
+      "path": "assets/menu/breakfast/bfast-egg-cheese.jpg",
+      "source": "local-stock",
+      "bytes": 61979,
+      "cached": true
+    },
+    "bfast-egg-meat-cheese": {
+      "path": "assets/menu/breakfast/bfast-egg-meat-cheese.jpg",
+      "source": "local-stock",
+      "bytes": 66251,
+      "cached": true
+    },
+    "bfast-meat-egg": {
+      "path": "assets/menu/breakfast/bfast-meat-egg.jpg",
+      "source": "local-stock",
+      "bytes": 55217,
+      "cached": true
+    },
+    "bfast-belly-buster": {
+      "path": "assets/menu/breakfast/bfast-belly-buster.jpg",
+      "source": "bagel-bazaar-site",
+      "bytes": 142751,
+      "cached": true
+    },
+    "bfast-buddy-buster": {
+      "path": "assets/menu/breakfast/bfast-buddy-buster.jpg",
+      "source": "local-stock",
+      "bytes": 40870,
+      "cached": true
+    },
+    "bfast-breakfast-bomb": {
+      "path": "assets/menu/breakfast/bfast-breakfast-bomb.jpg",
+      "source": "local-stock",
+      "bytes": 39590,
+      "cached": true
+    },
+    "bfast-western-patty": {
+      "path": "assets/menu/breakfast/bfast-western-patty.jpg",
+      "source": "local-stock",
+      "bytes": 67500,
+      "cached": true
+    },
+    "bfast-philly": {
+      "path": "assets/menu/breakfast/bfast-philly.jpg",
+      "source": "local-stock",
+      "bytes": 47826,
+      "cached": true
+    },
+    "bfast-healthy-veggie": {
+      "path": "assets/menu/breakfast/bfast-healthy-veggie.jpg",
+      "source": "local-stock",
+      "bytes": 120616,
+      "cached": true
+    },
+    "bfast-xxx": {
+      "path": "assets/menu/breakfast/bfast-xxx.jpg",
+      "source": "local-stock",
+      "bytes": 33076,
+      "cached": true
+    },
+    "bfast-leo": {
+      "path": "assets/menu/breakfast/bfast-leo.jpg",
+      "source": "local-stock",
+      "bytes": 62755,
+      "cached": true
+    },
+    "bfast-avocado-toast": {
+      "path": "assets/menu/breakfast/bfast-avocado-toast.jpg",
+      "source": "local-stock",
+      "bytes": 51037,
+      "cached": true
+    },
+    "omelette-3-eggs": {
+      "path": "assets/menu/breakfast/omelette-3-eggs.jpg",
+      "source": "local-stock",
+      "bytes": 52980,
+      "cached": true
+    },
+    "omelette-3-eggs-meat": {
+      "path": "assets/menu/breakfast/omelette-3-eggs-meat.jpg",
+      "source": "local-stock",
+      "bytes": 65036,
+      "cached": true
+    },
+    "omelette-western": {
+      "path": "assets/menu/breakfast/omelette-western.jpg",
+      "source": "local-stock",
+      "bytes": 68709,
+      "cached": true
+    },
+    "omelette-veggie": {
+      "path": "assets/menu/breakfast/omelette-veggie.jpg",
+      "source": "local-stock",
+      "bytes": 38548,
+      "cached": true
+    },
+    "omelette-cheesy": {
+      "path": "assets/menu/breakfast/omelette-cheesy.jpg",
+      "source": "local-stock",
+      "bytes": 91627,
+      "cached": true
+    },
+    "omelette-hammy": {
+      "path": "assets/menu/breakfast/omelette-hammy.jpg",
+      "source": "local-stock",
+      "bytes": 61495,
+      "cached": true
+    },
+    "omelette-bacon": {
+      "path": "assets/menu/breakfast/omelette-bacon.jpg",
+      "source": "local-stock",
+      "bytes": 48397,
+      "cached": true
+    },
+    "omelette-shroomy": {
+      "path": "assets/menu/breakfast/omelette-shroomy.jpg",
+      "source": "local-stock",
+      "bytes": 29762,
+      "cached": true
+    },
+    "omelette-mediterranean": {
+      "path": "assets/menu/breakfast/omelette-mediterranean.jpg",
+      "source": "local-stock",
+      "bytes": 95986,
+      "cached": true
+    },
+    "omelette-turkey-garden": {
+      "path": "assets/menu/breakfast/omelette-turkey-garden.jpg",
+      "source": "local-stock",
+      "bytes": 16975,
+      "cached": true
+    },
+    "pancakes-buttermilk": {
+      "path": "assets/menu/breakfast/pancakes-buttermilk.jpg",
+      "source": "local-stock",
+      "bytes": 55614,
+      "cached": true
+    },
+    "pancakes-chocolate": {
+      "path": "assets/menu/breakfast/pancakes-chocolate.jpg",
+      "source": "local-stock",
+      "bytes": 106386,
+      "cached": true
+    },
+    "pancakes-blueberry": {
+      "path": "assets/menu/breakfast/pancakes-blueberry.jpg",
+      "source": "local-stock",
+      "bytes": 54074,
+      "cached": true
+    },
+    "pancakes-cinnamon": {
+      "path": "assets/menu/breakfast/pancakes-cinnamon.jpg",
+      "source": "local-stock",
+      "bytes": 47111,
+      "cached": true
+    },
+    "ft-classic": {
+      "path": "assets/menu/breakfast/ft-classic.jpg",
+      "source": "bagel-bazaar-site",
+      "bytes": 171280,
+      "cached": true
+    },
+    "ft-nutella-smores": {
+      "path": "assets/menu/breakfast/ft-nutella-smores.jpg",
+      "source": "local-stock",
+      "bytes": 97701,
+      "cached": true
+    },
+    "ft-strawberry": {
+      "path": "assets/menu/breakfast/ft-strawberry.jpg",
+      "source": "local-stock",
+      "bytes": 45289,
+      "cached": true
+    },
+    "ft-oreo": {
+      "path": "assets/menu/breakfast/ft-oreo.jpg",
+      "source": "local-stock",
+      "bytes": 96761,
+      "cached": true
+    },
+    "side-home-fries": {
+      "path": "assets/menu/sides/side-home-fries.jpg",
+      "source": "local-stock",
+      "bytes": 101563,
+      "cached": true
+    },
+    "side-silver-dollar": {
+      "path": "assets/menu/sides/side-silver-dollar.jpg",
+      "source": "local-stock",
+      "bytes": 90258,
+      "cached": true
+    },
+    "side-hash-patty": {
+      "path": "assets/menu/sides/side-hash-patty.jpg",
+      "source": "local-stock",
+      "bytes": 91075,
+      "cached": true
+    },
+    "side-breakfast-meat": {
+      "path": "assets/menu/sides/side-breakfast-meat.jpg",
+      "source": "local-stock",
+      "bytes": 76452,
+      "cached": true
+    },
+    "side-cream-cheese": {
+      "path": "assets/menu/sides/side-cream-cheese.jpg",
+      "source": "local-stock",
+      "bytes": 51953,
+      "cached": true
+    },
+    "side-fruit-salad": {
+      "path": "assets/menu/sides/side-fruit-salad.jpg",
+      "source": "local-stock",
+      "bytes": 45085,
+      "cached": true
+    },
+    "side-watermelon": {
+      "path": "assets/menu/sides/side-watermelon.jpg",
+      "source": "local-stock",
+      "bytes": 39104,
+      "cached": true
+    },
+    "side-chobani": {
+      "path": "assets/menu/sides/side-chobani.jpg",
+      "source": "local-stock",
+      "bytes": 42638,
+      "cached": true
+    },
+    "salad-garden": {
+      "path": "assets/menu/salads/salad-garden.jpg",
+      "source": "bagel-bazaar-site",
+      "bytes": 213627,
+      "cached": true
+    },
+    "salad-cobb": {
+      "path": "assets/menu/salads/salad-cobb.jpg",
+      "source": "local-stock",
+      "bytes": 55805,
+      "cached": true
+    },
+    "salad-green-dream": {
+      "path": "assets/menu/salads/salad-green-dream.jpg",
+      "source": "local-stock",
+      "bytes": 50297,
+      "cached": true
+    },
+    "salad-caesar": {
+      "path": "assets/menu/salads/salad-caesar.jpg",
+      "source": "local-stock",
+      "bytes": 34095,
+      "cached": true
+    },
+    "salad-greek": {
+      "path": "assets/menu/salads/salad-greek.jpg",
+      "source": "local-stock",
+      "bytes": 37443,
+      "cached": true
+    },
+    "deli-tuna": {
+      "path": "assets/menu/salads/deli-tuna.jpg",
+      "source": "local-stock",
+      "bytes": 68573,
+      "cached": true
+    },
+    "deli-veggie-tuna": {
+      "path": "assets/menu/salads/deli-veggie-tuna.jpg",
+      "source": "local-stock",
+      "bytes": 128968,
+      "cached": true
+    },
+    "deli-chicken": {
+      "path": "assets/menu/salads/deli-chicken.jpg",
+      "source": "local-stock",
+      "bytes": 53962,
+      "cached": true
+    },
+    "deli-cranberry-chicken": {
+      "path": "assets/menu/salads/deli-cranberry-chicken.jpg",
+      "source": "local-stock",
+      "bytes": 80973,
+      "cached": true
+    },
+    "deli-shrimp": {
+      "path": "assets/menu/salads/deli-shrimp.jpg",
+      "source": "local-stock",
+      "bytes": 29111,
+      "cached": true
+    },
+    "deli-egg": {
+      "path": "assets/menu/salads/deli-egg.jpg",
+      "source": "local-stock",
+      "bytes": 42153,
+      "cached": true
+    },
+    "deli-whitefish": {
+      "path": "assets/menu/salads/deli-whitefish.jpg",
+      "source": "local-stock",
+      "bytes": 47427,
+      "cached": true
+    },
+    "deli-salmon": {
+      "path": "assets/menu/salads/deli-salmon.jpg",
+      "source": "local-stock",
+      "bytes": 54891,
+      "cached": true
+    },
+    "hot-grilled-chicken": {
+      "path": "assets/menu/sandwiches/hot-grilled-chicken.jpg",
+      "source": "local-stock",
+      "bytes": 52881,
+      "cached": true
+    },
+    "hot-chicken-blt": {
+      "path": "assets/menu/sandwiches/hot-chicken-blt.jpg",
+      "source": "local-stock",
+      "bytes": 29659,
+      "cached": true
+    },
+    "hot-chicken-mozzarella": {
+      "path": "assets/menu/sandwiches/hot-chicken-mozzarella.jpg",
+      "source": "local-stock",
+      "bytes": 31094,
+      "cached": true
+    },
+    "hot-crispy-chicken": {
+      "path": "assets/menu/sandwiches/hot-crispy-chicken.jpg",
+      "source": "local-stock",
+      "bytes": 36871,
+      "cached": true
+    },
+    "hot-spicy-crispy": {
+      "path": "assets/menu/sandwiches/hot-spicy-crispy.jpg",
+      "source": "local-stock",
+      "bytes": 56445,
+      "cached": true
+    },
+    "hot-grilled-cheese": {
+      "path": "assets/menu/sandwiches/hot-grilled-cheese.jpg",
+      "source": "local-stock",
+      "bytes": 34681,
+      "cached": true
+    },
+    "hot-grilled-cheese-blt": {
+      "path": "assets/menu/sandwiches/hot-grilled-cheese-blt.jpg",
+      "source": "local-stock",
+      "bytes": 99558,
+      "cached": true
+    },
+    "hot-blt": {
+      "path": "assets/menu/sandwiches/hot-blt.jpg",
+      "source": "local-stock",
+      "bytes": 25197,
+      "cached": true
+    },
+    "spec-cuban": {
+      "path": "assets/menu/sandwiches/spec-cuban.jpg",
+      "source": "local-stock",
+      "bytes": 62399,
+      "cached": true
+    },
+    "spec-reuben": {
+      "path": "assets/menu/sandwiches/spec-reuben.jpg",
+      "source": "local-stock",
+      "bytes": 103175,
+      "cached": true
+    },
+    "spec-gourmet-blt": {
+      "path": "assets/menu/sandwiches/spec-gourmet-blt.jpg",
+      "source": "local-stock",
+      "bytes": 91076,
+      "cached": true
+    },
+    "spec-beef-gyro": {
+      "path": "assets/menu/sandwiches/spec-beef-gyro.jpg",
+      "source": "local-stock",
+      "bytes": 44712,
+      "cached": true
+    },
+    "spec-gourmet-grilled-cheese": {
+      "path": "assets/menu/sandwiches/spec-gourmet-grilled-cheese.jpg",
+      "source": "local-stock",
+      "bytes": 50391,
+      "cached": true
+    },
+    "spec-tuna-melt": {
+      "path": "assets/menu/sandwiches/spec-tuna-melt.jpg",
+      "source": "local-stock",
+      "bytes": 32749,
+      "cached": true
+    },
+    "spec-sloppy-joe": {
+      "path": "assets/menu/sandwiches/spec-sloppy-joe.jpg",
+      "source": "local-stock",
+      "bytes": 44201,
+      "cached": true
+    },
+    "spec-turkey-club": {
+      "path": "assets/menu/sandwiches/spec-turkey-club.jpg",
+      "source": "local-stock",
+      "bytes": 48894,
+      "cached": true
+    },
+    "spec-pastrami-corned": {
+      "path": "assets/menu/sandwiches/spec-pastrami-corned.jpg",
+      "source": "local-stock",
+      "bytes": 59649,
+      "cached": true
+    },
+    "spec-cranberry": {
+      "path": "assets/menu/sandwiches/spec-cranberry.jpg",
+      "source": "local-stock",
+      "bytes": 36326,
+      "cached": true
+    },
+    "sub-philly": {
+      "path": "assets/menu/subs/sub-philly.jpg",
+      "source": "local-stock",
+      "bytes": 121310,
+      "cached": true
+    },
+    "sub-chicken-philly": {
+      "path": "assets/menu/subs/sub-chicken-philly.jpg",
+      "source": "local-stock",
+      "bytes": 53309,
+      "cached": true
+    },
+    "sub-crispy-blt": {
+      "path": "assets/menu/subs/sub-crispy-blt.jpg",
+      "source": "local-stock",
+      "bytes": 52775,
+      "cached": true
+    },
+    "sub-buffalo-chicken": {
+      "path": "assets/menu/subs/sub-buffalo-chicken.jpg",
+      "source": "local-stock",
+      "bytes": 54551,
+      "cached": true
+    },
+    "hoagie-1": {
+      "path": "assets/menu/subs/hoagie-1.jpg",
+      "source": "local-stock",
+      "bytes": 73436,
+      "cached": true
+    },
+    "hoagie-2": {
+      "path": "assets/menu/subs/hoagie-2.jpg",
+      "source": "local-stock",
+      "bytes": 26881,
+      "cached": true
+    },
+    "hoagie-3": {
+      "path": "assets/menu/subs/hoagie-3.jpg",
+      "source": "local-stock",
+      "bytes": 24111,
+      "cached": true
+    },
+    "hoagie-4": {
+      "path": "assets/menu/subs/hoagie-4.jpg",
+      "source": "local-stock",
+      "bytes": 23981,
+      "cached": true
+    },
+    "hoagie-5": {
+      "path": "assets/menu/subs/hoagie-5.jpg",
+      "source": "bagel-bazaar-site",
+      "bytes": 184050,
+      "cached": true
+    },
+    "hoagie-6": {
+      "path": "assets/menu/subs/hoagie-6.jpg",
+      "source": "local-stock",
+      "bytes": 35832,
+      "cached": true
+    },
+    "hoagie-7": {
+      "path": "assets/menu/subs/hoagie-7.jpg",
+      "source": "local-stock",
+      "bytes": 18613,
+      "cached": true
+    },
+    "hoagie-8": {
+      "path": "assets/menu/subs/hoagie-8.jpg",
+      "source": "local-stock",
+      "bytes": 84686,
+      "cached": true
+    },
+    "hoagie-9": {
+      "path": "assets/menu/subs/hoagie-9.jpg",
+      "source": "local-stock",
+      "bytes": 76708,
+      "cached": true
+    },
+    "hoagie-10": {
+      "path": "assets/menu/subs/hoagie-10.jpg",
+      "source": "local-stock",
+      "bytes": 42700,
+      "cached": true
+    },
+    "hoagie-11": {
+      "path": "assets/menu/subs/hoagie-11.jpg",
+      "source": "local-stock",
+      "bytes": 101279,
+      "cached": true
+    },
+    "hoagie-12": {
+      "path": "assets/menu/subs/hoagie-12.jpg",
+      "source": "local-stock",
+      "bytes": 71661,
+      "cached": true
+    },
+    "salad-sand-tuna": {
+      "path": "assets/menu/sandwiches/salad-sand-tuna.jpg",
+      "source": "local-stock",
+      "bytes": 75282,
+      "cached": true
+    },
+    "salad-sand-veggie-tuna": {
+      "path": "assets/menu/sandwiches/salad-sand-veggie-tuna.jpg",
+      "source": "local-stock",
+      "bytes": 42227,
+      "cached": true
+    },
+    "salad-sand-chicken": {
+      "path": "assets/menu/sandwiches/salad-sand-chicken.jpg",
+      "source": "local-stock",
+      "bytes": 68013,
+      "cached": true
+    },
+    "salad-sand-cranberry": {
+      "path": "assets/menu/sandwiches/salad-sand-cranberry.jpg",
+      "source": "local-stock",
+      "bytes": 68049,
+      "cached": true
+    },
+    "salad-sand-shrimp": {
+      "path": "assets/menu/sandwiches/salad-sand-shrimp.jpg",
+      "source": "local-stock",
+      "bytes": 49490,
+      "cached": true
+    },
+    "salad-sand-egg": {
+      "path": "assets/menu/sandwiches/salad-sand-egg.jpg",
+      "source": "local-stock",
+      "bytes": 70871,
+      "cached": true
+    },
+    "salad-sand-whitefish": {
+      "path": "assets/menu/sandwiches/salad-sand-whitefish.jpg",
+      "source": "local-stock",
+      "bytes": 43179,
+      "cached": true
+    },
+    "salad-sand-salmon": {
+      "path": "assets/menu/sandwiches/salad-sand-salmon.jpg",
+      "source": "local-stock",
+      "bytes": 8107,
+      "cached": true
+    },
+    "veg-all-veggies": {
+      "path": "assets/menu/sandwiches/veg-all-veggies.jpg",
+      "source": "local-stock",
+      "bytes": 24430,
+      "cached": true
+    },
+    "veg-cheese-combo": {
+      "path": "assets/menu/sandwiches/veg-cheese-combo.jpg",
+      "source": "local-stock",
+      "bytes": 63394,
+      "cached": true
+    },
+    "panini-1": {
+      "path": "assets/menu/sandwiches/panini-1.jpg",
+      "source": "local-stock",
+      "bytes": 24257,
+      "cached": true
+    },
+    "panini-2": {
+      "path": "assets/menu/sandwiches/panini-2.jpg",
+      "source": "local-stock",
+      "bytes": 85068,
+      "cached": true
+    },
+    "panini-3": {
+      "path": "assets/menu/sandwiches/panini-3.jpg",
+      "source": "local-stock",
+      "bytes": 57653,
+      "cached": true
+    },
+    "panini-4": {
+      "path": "assets/menu/sandwiches/panini-4.jpg",
+      "source": "local-stock",
+      "bytes": 92614,
+      "cached": true
+    },
+    "panini-5": {
+      "path": "assets/menu/sandwiches/panini-5.jpg",
+      "source": "local-stock",
+      "bytes": 40052,
+      "cached": true
+    },
+    "wrap-hot-1": {
+      "path": "assets/menu/wraps/wrap-hot-1.jpg",
+      "source": "local-stock",
+      "bytes": 46961,
+      "cached": true
+    },
+    "wrap-hot-2": {
+      "path": "assets/menu/wraps/wrap-hot-2.jpg",
+      "source": "local-stock",
+      "bytes": 20645,
+      "cached": true
+    },
+    "wrap-hot-3": {
+      "path": "assets/menu/wraps/wrap-hot-3.jpg",
+      "source": "local-stock",
+      "bytes": 55760,
+      "cached": true
+    },
+    "wrap-hot-4": {
+      "path": "assets/menu/wraps/wrap-hot-4.jpg",
+      "source": "local-stock",
+      "bytes": 58186,
+      "cached": true
+    },
+    "wrap-hot-5": {
+      "path": "assets/menu/wraps/wrap-hot-5.jpg",
+      "source": "local-stock",
+      "bytes": 76618,
+      "cached": true
+    },
+    "wrap-cold-6": {
+      "path": "assets/menu/wraps/wrap-cold-6.jpg",
+      "source": "local-stock",
+      "bytes": 33954,
+      "cached": true
+    },
+    "wrap-cold-7": {
+      "path": "assets/menu/wraps/wrap-cold-7.jpg",
+      "source": "local-stock",
+      "bytes": 79270,
+      "cached": true
+    },
+    "wrap-cold-8": {
+      "path": "assets/menu/wraps/wrap-cold-8.jpg",
+      "source": "local-stock",
+      "bytes": 78384,
+      "cached": true
+    },
+    "wrap-cold-9": {
+      "path": "assets/menu/wraps/wrap-cold-9.jpg",
+      "source": "local-stock",
+      "bytes": 135737,
+      "cached": true
+    },
+    "wrap-cold-10": {
+      "path": "assets/menu/wraps/wrap-cold-10.jpg",
+      "source": "local-stock",
+      "bytes": 69259,
+      "cached": true
+    },
+    "quesadilla-cheese": {
+      "path": "assets/menu/breakfast/quesadilla-cheese.jpg",
+      "source": "local-stock",
+      "bytes": 25518,
+      "cached": true
+    },
+    "quesadilla-chicken": {
+      "path": "assets/menu/breakfast/quesadilla-chicken.jpg",
+      "source": "local-stock",
+      "bytes": 31519,
+      "cached": true
+    },
+    "quesadilla-chicken-bacon": {
+      "path": "assets/menu/breakfast/quesadilla-chicken-bacon.jpg",
+      "source": "local-stock",
+      "bytes": 48741,
+      "cached": true
+    },
+    "quesadilla-buffalo": {
+      "path": "assets/menu/breakfast/quesadilla-buffalo.jpg",
+      "source": "local-stock",
+      "bytes": 34983,
+      "cached": true
+    },
+    "burger-cheese": {
+      "path": "assets/menu/burgers/burger-cheese.jpg",
+      "source": "local-stock",
+      "bytes": 35834,
+      "cached": true
+    },
+    "burger-bacon": {
+      "path": "assets/menu/burgers/burger-bacon.jpg",
+      "source": "local-stock",
+      "bytes": 122642,
+      "cached": true
+    },
+    "burger-turkey": {
+      "path": "assets/menu/burgers/burger-turkey.jpg",
+      "source": "local-stock",
+      "bytes": 59944,
+      "cached": true
+    },
+    "burger-mushroom-swiss": {
+      "path": "assets/menu/burgers/burger-mushroom-swiss.jpg",
+      "source": "local-stock",
+      "bytes": 61163,
+      "cached": true
+    },
+    "burger-breakfast": {
+      "path": "assets/menu/burgers/burger-breakfast.jpg",
+      "source": "local-stock",
+      "bytes": 48487,
+      "cached": true
+    },
+    "burger-avocado": {
+      "path": "assets/menu/burgers/burger-avocado.jpg",
+      "source": "local-stock",
+      "bytes": 70479,
+      "cached": true
+    },
+    "burger-chipotle": {
+      "path": "assets/menu/burgers/burger-chipotle.jpg",
+      "source": "local-stock",
+      "bytes": 29539,
+      "cached": true
+    },
+    "burger-kosher-deli": {
+      "path": "assets/menu/burgers/burger-kosher-deli.jpg",
+      "source": "local-stock",
+      "bytes": 58004,
+      "cached": true
+    },
+    "hotdog-beef": {
+      "path": "assets/menu/sides/hotdog-beef.jpg",
+      "source": "local-stock",
+      "bytes": 32749,
+      "cached": true
+    },
+    "hotdog-italian": {
+      "path": "assets/menu/sides/hotdog-italian.jpg",
+      "source": "local-stock",
+      "bytes": 98839,
+      "cached": true
+    },
+    "side-fries": {
+      "path": "assets/menu/sides/side-fries.jpg",
+      "source": "local-stock",
+      "bytes": 34599,
+      "cached": true
+    },
+    "side-onion-rings": {
+      "path": "assets/menu/sides/side-onion-rings.jpg",
+      "source": "local-stock",
+      "bytes": 35873,
+      "cached": true
+    },
+    "chicken-tenders": {
+      "path": "assets/menu/sides/chicken-tenders.jpg",
+      "source": "local-stock",
+      "bytes": 53131,
+      "cached": true
+    },
+    "buffalo-wings": {
+      "path": "assets/menu/sides/buffalo-wings.jpg",
+      "source": "local-stock",
+      "bytes": 43082,
+      "cached": true
+    },
+    "bev-iced-tea": {
+      "path": "assets/menu/beverages/bev-iced-tea.jpg",
+      "source": "local-stock",
+      "bytes": 95529,
+      "cached": true
+    },
+    "bev-lemonade": {
+      "path": "assets/menu/beverages/bev-lemonade.jpg",
+      "source": "local-stock",
+      "bytes": 61810,
+      "cached": true
+    },
+    "bev-smoothie": {
+      "path": "assets/menu/beverages/bev-smoothie.jpg",
+      "source": "local-stock",
+      "bytes": 54795,
+      "cached": true
+    },
+    "bev-canned-soda": {
+      "path": "assets/menu/beverages/bev-canned-soda.jpg",
+      "source": "local-stock",
+      "bytes": 108637,
+      "cached": true
+    },
+    "bev-bottled-soda": {
+      "path": "assets/menu/beverages/bev-bottled-soda.jpg",
+      "source": "local-stock",
+      "bytes": 61565,
+      "cached": true
+    },
+    "bev-snapple": {
+      "path": "assets/menu/beverages/bev-snapple.jpg",
+      "source": "local-stock",
+      "bytes": 54030,
+      "cached": true
+    },
+    "bev-gatorade": {
+      "path": "assets/menu/beverages/bev-gatorade.jpg",
+      "source": "local-stock",
+      "bytes": 24902,
+      "cached": true
+    },
+    "bev-arizona": {
+      "path": "assets/menu/beverages/bev-arizona.jpg",
+      "source": "local-stock",
+      "bytes": 42151,
+      "cached": true
+    },
+    "bev-vitamin-water": {
+      "path": "assets/menu/beverages/bev-vitamin-water.jpg",
+      "source": "local-stock",
+      "bytes": 27966,
+      "cached": true
+    },
+    "bev-monster": {
+      "path": "assets/menu/beverages/bev-monster.jpg",
+      "source": "local-stock",
+      "bytes": 35656,
+      "cached": true
+    },
+    "bev-energy-drink": {
+      "path": "assets/menu/beverages/bev-energy-drink.jpg",
+      "source": "local-stock",
+      "bytes": 46436,
+      "cached": true
+    },
+    "bev-bai": {
+      "path": "assets/menu/beverages/bev-bai.jpg",
+      "source": "local-stock",
+      "bytes": 26548,
+      "cached": true
+    },
+    "bev-calypso": {
+      "path": "assets/menu/beverages/bev-calypso.jpg",
+      "source": "local-stock",
+      "bytes": 26778,
+      "cached": true
+    },
+    "bev-poland-sparkling": {
+      "path": "assets/menu/beverages/bev-poland-sparkling.jpg",
+      "source": "local-stock",
+      "bytes": 60033,
+      "cached": true
+    },
+    "bev-tropicana": {
+      "path": "assets/menu/beverages/bev-tropicana.jpg",
+      "source": "local-stock",
+      "bytes": 33962,
+      "cached": true
+    },
+    "bev-tropicana-gallon": {
+      "path": "assets/menu/beverages/bev-tropicana-gallon.jpg",
+      "source": "local-stock",
+      "bytes": 46612,
+      "cached": true
+    },
+    "bev-chocolate-milk": {
+      "path": "assets/menu/beverages/bev-chocolate-milk.jpg",
+      "source": "local-stock",
+      "bytes": 73764,
+      "cached": true
+    },
+    "bev-nesquik": {
+      "path": "assets/menu/beverages/bev-nesquik.jpg",
+      "source": "local-stock",
+      "bytes": 38783,
+      "cached": true
+    },
+    "bev-yoohoo": {
+      "path": "assets/menu/beverages/bev-yoohoo.jpg",
+      "source": "local-stock",
+      "bytes": 47370,
+      "cached": true
+    },
+    "bev-red-bull": {
+      "path": "assets/menu/beverages/bev-red-bull.jpg",
+      "source": "local-stock",
+      "bytes": 45477,
+      "cached": true
+    },
+    "bev-sbux-frap-95": {
+      "path": "assets/menu/beverages/bev-sbux-frap-95.jpg",
+      "source": "local-stock",
+      "bytes": 60923,
+      "cached": true
+    },
+    "bev-sbux-frap": {
+      "path": "assets/menu/beverages/bev-sbux-frap.jpg",
+      "source": "local-stock",
+      "bytes": 63147,
+      "cached": true
+    },
+    "bev-sbux-double": {
+      "path": "assets/menu/beverages/bev-sbux-double.jpg",
+      "source": "local-stock",
+      "bytes": 56895,
+      "cached": true
+    },
+    "bev-poland-water": {
+      "path": "assets/menu/beverages/bev-poland-water.jpg",
+      "source": "local-stock",
+      "bytes": 32061,
+      "cached": true
+    },
+    "bev-fiji": {
+      "path": "assets/menu/beverages/bev-fiji.jpg",
+      "source": "local-stock",
+      "bytes": 71426,
+      "cached": true
+    },
+    "bev-premium-water": {
+      "path": "assets/menu/beverages/bev-premium-water.jpg",
+      "source": "local-stock",
+      "bytes": 50623,
+      "cached": true
+    }
+  },
+  "reuseAliases": {
+    "bagels-6": "bagel-1",
+    "bagels-13": "bagel-1",
+    "lox-quarter": "lox-slices",
+    "lox-half": "lox-slices",
+    "lox-pound": "lox-slices",
+    "side-tenders-3": "chicken-tenders",
+    "side-tenders-5": "chicken-tenders",
+    "side-wings-6": "buffalo-wings",
+    "side-wings-12": "buffalo-wings",
+    "bev-iced-tea-flavored": "bev-iced-tea",
+    "bev-lemonade-flavored": "bev-lemonade",
+    "bev-bang-alt": "bev-energy-drink",
+    "bev-tropicana-12": "bev-tropicana",
+    "bev-tropicana-16": "bev-tropicana",
+    "bev-choc-milk-16": "bev-chocolate-milk",
+    "bev-choc-milk-quart": "bev-chocolate-milk",
+    "bev-red-bull-diet": "bev-red-bull",
+    "bev-sbux-frap-13": "bev-sbux-frap"
+  }
+}

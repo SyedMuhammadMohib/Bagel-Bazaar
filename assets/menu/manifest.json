@@ -1,0 +1,1037 @@
+{
+  "coffee-drip": {
+    "path": "assets/menu/_placeholder/coffee-drip.jpg",
+    "remote": null,
+    "alt": "coffee drip"
+  },
+  "espresso-single": {
+    "path": "assets/menu/_placeholder/espresso-single.jpg",
+    "remote": null,
+    "alt": "espresso single"
+  },
+  "espresso-double": {
+    "path": "assets/menu/_placeholder/espresso-double.jpg",
+    "remote": null,
+    "alt": "espresso double"
+  },
+  "cappuccino-hot": {
+    "path": "assets/menu/_placeholder/cappuccino-hot.jpg",
+    "remote": null,
+    "alt": "cappuccino hot"
+  },
+  "cappuccino-flavored": {
+    "path": "assets/menu/_placeholder/cappuccino-flavored.jpg",
+    "remote": null,
+    "alt": "cappuccino flavored"
+  },
+  "latte-iced": {
+    "path": "assets/menu/_placeholder/latte-iced.jpg",
+    "remote": null,
+    "alt": "latte iced"
+  },
+  "latte-iced-flavored": {
+    "path": "assets/menu/_placeholder/latte-iced-flavored.jpg",
+    "remote": null,
+    "alt": "latte iced flavored"
+  },
+  "coffee-iced": {
+    "path": "assets/menu/_placeholder/coffee-iced.jpg",
+    "remote": null,
+    "alt": "coffee iced"
+  },
+  "coffee-iced-flavored": {
+    "path": "assets/menu/_placeholder/coffee-iced-flavored.jpg",
+    "remote": null,
+    "alt": "coffee iced flavored"
+  },
+  "frappe-frozen": {
+    "path": "assets/menu/_placeholder/frappe-frozen.jpg",
+    "remote": null,
+    "alt": "frappe frozen"
+  },
+  "frappe-flavored": {
+    "path": "assets/menu/_placeholder/frappe-flavored.jpg",
+    "remote": null,
+    "alt": "frappe flavored"
+  },
+  "box-o-joe": {
+    "path": "assets/menu/_placeholder/box-o-joe.jpg",
+    "remote": null,
+    "alt": "box o joe"
+  },
+  "bagel-1": {
+    "path": "assets/menu/_placeholder/bagel-1.jpg",
+    "remote": null,
+    "alt": "bagel 1"
+  },
+  "bagel-special-1": {
+    "path": "assets/menu/_placeholder/bagel-special-1.jpg",
+    "remote": null,
+    "alt": "bagel special 1"
+  },
+  "bagel-special-2": {
+    "path": "assets/menu/_placeholder/bagel-special-2.jpg",
+    "remote": null,
+    "alt": "bagel special 2"
+  },
+  "spread-butter": {
+    "path": "assets/menu/_placeholder/spread-butter.jpg",
+    "remote": null,
+    "alt": "spread butter"
+  },
+  "spread-cinna-butter": {
+    "path": "assets/menu/_placeholder/spread-cinna-butter.jpg",
+    "remote": null,
+    "alt": "spread cinna butter"
+  },
+  "spread-peanut-butter": {
+    "path": "assets/menu/_placeholder/spread-peanut-butter.jpg",
+    "remote": null,
+    "alt": "spread peanut butter"
+  },
+  "spread-nutella": {
+    "path": "assets/menu/_placeholder/spread-nutella.jpg",
+    "remote": null,
+    "alt": "spread nutella"
+  },
+  "spread-jelly": {
+    "path": "assets/menu/_placeholder/spread-jelly.jpg",
+    "remote": null,
+    "alt": "spread jelly"
+  },
+  "spread-plain-cc": {
+    "path": "assets/menu/_placeholder/spread-plain-cc.jpg",
+    "remote": null,
+    "alt": "spread plain cc"
+  },
+  "spread-veggie-cc": {
+    "path": "assets/menu/_placeholder/spread-veggie-cc.jpg",
+    "remote": null,
+    "alt": "spread veggie cc"
+  },
+  "spread-scallion-cc": {
+    "path": "assets/menu/_placeholder/spread-scallion-cc.jpg",
+    "remote": null,
+    "alt": "spread scallion cc"
+  },
+  "spread-lox-spread": {
+    "path": "assets/menu/_placeholder/spread-lox-spread.jpg",
+    "remote": null,
+    "alt": "spread lox spread"
+  },
+  "spread-walnut-cc": {
+    "path": "assets/menu/_placeholder/spread-walnut-cc.jpg",
+    "remote": null,
+    "alt": "spread walnut cc"
+  },
+  "spread-strawberry-cc": {
+    "path": "assets/menu/_placeholder/spread-strawberry-cc.jpg",
+    "remote": null,
+    "alt": "spread strawberry cc"
+  },
+  "spread-jalapeno-cc": {
+    "path": "assets/menu/_placeholder/spread-jalapeno-cc.jpg",
+    "remote": null,
+    "alt": "spread jalapeno cc"
+  },
+  "spread-oreo-cc": {
+    "path": "assets/menu/_placeholder/spread-oreo-cc.jpg",
+    "remote": null,
+    "alt": "spread oreo cc"
+  },
+  "spread-bacon-cc": {
+    "path": "assets/menu/_placeholder/spread-bacon-cc.jpg",
+    "remote": null,
+    "alt": "spread bacon cc"
+  },
+  "spread-lite-veggie-cc": {
+    "path": "assets/menu/_placeholder/spread-lite-veggie-cc.jpg",
+    "remote": null,
+    "alt": "spread lite veggie cc"
+  },
+  "spread-olive-cc": {
+    "path": "assets/menu/_placeholder/spread-olive-cc.jpg",
+    "remote": null,
+    "alt": "spread olive cc"
+  },
+  "lox-plain-cc": {
+    "path": "assets/menu/_placeholder/lox-plain-cc.jpg",
+    "remote": null,
+    "alt": "lox plain cc"
+  },
+  "lox-veggie-cc": {
+    "path": "assets/menu/_placeholder/lox-veggie-cc.jpg",
+    "remote": null,
+    "alt": "lox veggie cc"
+  },
+  "lox-scallion-cc": {
+    "path": "assets/menu/_placeholder/lox-scallion-cc.jpg",
+    "remote": null,
+    "alt": "lox scallion cc"
+  },
+  "lox-whitefish": {
+    "path": "assets/menu/_placeholder/lox-whitefish.jpg",
+    "remote": null,
+    "alt": "lox whitefish"
+  },
+  "tub-plain-cc": {
+    "path": "assets/menu/_placeholder/tub-plain-cc.jpg",
+    "remote": null,
+    "alt": "tub plain cc"
+  },
+  "tub-flavored-cc": {
+    "path": "assets/menu/_placeholder/tub-flavored-cc.jpg",
+    "remote": null,
+    "alt": "tub flavored cc"
+  },
+  "tub-plain-butter": {
+    "path": "assets/menu/_placeholder/tub-plain-butter.jpg",
+    "remote": null,
+    "alt": "tub plain butter"
+  },
+  "tub-flavored-butter": {
+    "path": "assets/menu/_placeholder/tub-flavored-butter.jpg",
+    "remote": null,
+    "alt": "tub flavored butter"
+  },
+  "tub-jelly": {
+    "path": "assets/menu/_placeholder/tub-jelly.jpg",
+    "remote": null,
+    "alt": "tub jelly"
+  },
+  "lox-slices": {
+    "path": "assets/menu/_placeholder/lox-slices.jpg",
+    "remote": null,
+    "alt": "lox slices"
+  },
+  "bakery-muffin": {
+    "path": "assets/menu/_placeholder/bakery-muffin.jpg",
+    "remote": null,
+    "alt": "bakery muffin"
+  },
+  "bakery-cookie": {
+    "path": "assets/menu/_placeholder/bakery-cookie.jpg",
+    "remote": null,
+    "alt": "bakery cookie"
+  },
+  "bakery-crumb-cake": {
+    "path": "assets/menu/_placeholder/bakery-crumb-cake.jpg",
+    "remote": null,
+    "alt": "bakery crumb cake"
+  },
+  "bakery-brownie": {
+    "path": "assets/menu/_placeholder/bakery-brownie.jpg",
+    "remote": null,
+    "alt": "bakery brownie"
+  },
+  "bakery-blondie": {
+    "path": "assets/menu/_placeholder/bakery-blondie.jpg",
+    "remote": null,
+    "alt": "bakery blondie"
+  },
+  "burrito-1": {
+    "path": "assets/menu/_placeholder/burrito-1.jpg",
+    "remote": null,
+    "alt": "burrito 1"
+  },
+  "burrito-2": {
+    "path": "assets/menu/_placeholder/burrito-2.jpg",
+    "remote": null,
+    "alt": "burrito 2"
+  },
+  "burrito-3": {
+    "path": "assets/menu/_placeholder/burrito-3.jpg",
+    "remote": null,
+    "alt": "burrito 3"
+  },
+  "bfast-quesadilla-4": {
+    "path": "assets/menu/_placeholder/bfast-quesadilla-4.jpg",
+    "remote": null,
+    "alt": "bfast quesadilla 4"
+  },
+  "bfast-quesadilla-5": {
+    "path": "assets/menu/_placeholder/bfast-quesadilla-5.jpg",
+    "remote": null,
+    "alt": "bfast quesadilla 5"
+  },
+  "bfast-quesadilla-6": {
+    "path": "assets/menu/_placeholder/bfast-quesadilla-6.jpg",
+    "remote": null,
+    "alt": "bfast quesadilla 6"
+  },
+  "bfast-egg": {
+    "path": "assets/menu/_placeholder/bfast-egg.jpg",
+    "remote": null,
+    "alt": "bfast egg"
+  },
+  "bfast-egg-cheese": {
+    "path": "assets/menu/_placeholder/bfast-egg-cheese.jpg",
+    "remote": null,
+    "alt": "bfast egg cheese"
+  },
+  "bfast-egg-meat-cheese": {
+    "path": "assets/menu/_placeholder/bfast-egg-meat-cheese.jpg",
+    "remote": null,
+    "alt": "bfast egg meat cheese"
+  },
+  "bfast-meat-egg": {
+    "path": "assets/menu/_placeholder/bfast-meat-egg.jpg",
+    "remote": null,
+    "alt": "bfast meat egg"
+  },
+  "bfast-belly-buster": {
+    "path": "assets/menu/_placeholder/bfast-belly-buster.jpg",
+    "remote": null,
+    "alt": "bfast belly buster"
+  },
+  "bfast-buddy-buster": {
+    "path": "assets/menu/_placeholder/bfast-buddy-buster.jpg",
+    "remote": null,
+    "alt": "bfast buddy buster"
+  },
+  "bfast-breakfast-bomb": {
+    "path": "assets/menu/_placeholder/bfast-breakfast-bomb.jpg",
+    "remote": null,
+    "alt": "bfast breakfast bomb"
+  },
+  "bfast-western-patty": {
+    "path": "assets/menu/_placeholder/bfast-western-patty.jpg",
+    "remote": null,
+    "alt": "bfast western patty"
+  },
+  "bfast-philly": {
+    "path": "assets/menu/_placeholder/bfast-philly.jpg",
+    "remote": null,
+    "alt": "bfast philly"
+  },
+  "bfast-healthy-veggie": {
+    "path": "assets/menu/_placeholder/bfast-healthy-veggie.jpg",
+    "remote": null,
+    "alt": "bfast healthy veggie"
+  },
+  "bfast-xxx": {
+    "path": "assets/menu/_placeholder/bfast-xxx.jpg",
+    "remote": null,
+    "alt": "bfast xxx"
+  },
+  "bfast-leo": {
+    "path": "assets/menu/_placeholder/bfast-leo.jpg",
+    "remote": null,
+    "alt": "bfast leo"
+  },
+  "bfast-avocado-toast": {
+    "path": "assets/menu/_placeholder/bfast-avocado-toast.jpg",
+    "remote": null,
+    "alt": "bfast avocado toast"
+  },
+  "omelette-3-eggs": {
+    "path": "assets/menu/_placeholder/omelette-3-eggs.jpg",
+    "remote": null,
+    "alt": "omelette 3 eggs"
+  },
+  "omelette-3-eggs-meat": {
+    "path": "assets/menu/_placeholder/omelette-3-eggs-meat.jpg",
+    "remote": null,
+    "alt": "omelette 3 eggs meat"
+  },
+  "omelette-western": {
+    "path": "assets/menu/_placeholder/omelette-western.jpg",
+    "remote": null,
+    "alt": "omelette western"
+  },
+  "omelette-veggie": {
+    "path": "assets/menu/_placeholder/omelette-veggie.jpg",
+    "remote": null,
+    "alt": "omelette veggie"
+  },
+  "omelette-cheesy": {
+    "path": "assets/menu/_placeholder/omelette-cheesy.jpg",
+    "remote": null,
+    "alt": "omelette cheesy"
+  },
+  "omelette-hammy": {
+    "path": "assets/menu/_placeholder/omelette-hammy.jpg",
+    "remote": null,
+    "alt": "omelette hammy"
+  },
+  "omelette-bacon": {
+    "path": "assets/menu/_placeholder/omelette-bacon.jpg",
+    "remote": null,
+    "alt": "omelette bacon"
+  },
+  "omelette-shroomy": {
+    "path": "assets/menu/_placeholder/omelette-shroomy.jpg",
+    "remote": null,
+    "alt": "omelette shroomy"
+  },
+  "omelette-mediterranean": {
+    "path": "assets/menu/_placeholder/omelette-mediterranean.jpg",
+    "remote": null,
+    "alt": "omelette mediterranean"
+  },
+  "omelette-turkey-garden": {
+    "path": "assets/menu/_placeholder/omelette-turkey-garden.jpg",
+    "remote": null,
+    "alt": "omelette turkey garden"
+  },
+  "pancakes-buttermilk": {
+    "path": "assets/menu/_placeholder/pancakes-buttermilk.jpg",
+    "remote": null,
+    "alt": "pancakes buttermilk"
+  },
+  "pancakes-chocolate": {
+    "path": "assets/menu/_placeholder/pancakes-chocolate.jpg",
+    "remote": null,
+    "alt": "pancakes chocolate"
+  },
+  "pancakes-blueberry": {
+    "path": "assets/menu/_placeholder/pancakes-blueberry.jpg",
+    "remote": null,
+    "alt": "pancakes blueberry"
+  },
+  "pancakes-cinnamon": {
+    "path": "assets/menu/_placeholder/pancakes-cinnamon.jpg",
+    "remote": null,
+    "alt": "pancakes cinnamon"
+  },
+  "ft-classic": {
+    "path": "assets/menu/_placeholder/ft-classic.jpg",
+    "remote": null,
+    "alt": "ft classic"
+  },
+  "ft-nutella-smores": {
+    "path": "assets/menu/_placeholder/ft-nutella-smores.jpg",
+    "remote": null,
+    "alt": "ft nutella smores"
+  },
+  "ft-strawberry": {
+    "path": "assets/menu/_placeholder/ft-strawberry.jpg",
+    "remote": null,
+    "alt": "ft strawberry"
+  },
+  "ft-oreo": {
+    "path": "assets/menu/_placeholder/ft-oreo.jpg",
+    "remote": null,
+    "alt": "ft oreo"
+  },
+  "side-home-fries": {
+    "path": "assets/menu/_placeholder/side-home-fries.jpg",
+    "remote": null,
+    "alt": "side home fries"
+  },
+  "side-silver-dollar": {
+    "path": "assets/menu/_placeholder/side-silver-dollar.jpg",
+    "remote": null,
+    "alt": "side silver dollar"
+  },
+  "side-hash-patty": {
+    "path": "assets/menu/_placeholder/side-hash-patty.jpg",
+    "remote": null,
+    "alt": "side hash patty"
+  },
+  "side-breakfast-meat": {
+    "path": "assets/menu/_placeholder/side-breakfast-meat.jpg",
+    "remote": null,
+    "alt": "side breakfast meat"
+  },
+  "side-cream-cheese": {
+    "path": "assets/menu/_placeholder/side-cream-cheese.jpg",
+    "remote": null,
+    "alt": "side cream cheese"
+  },
+  "side-fruit-salad": {
+    "path": "assets/menu/_placeholder/side-fruit-salad.jpg",
+    "remote": null,
+    "alt": "side fruit salad"
+  },
+  "side-watermelon": {
+    "path": "assets/menu/_placeholder/side-watermelon.jpg",
+    "remote": null,
+    "alt": "side watermelon"
+  },
+  "side-chobani": {
+    "path": "assets/menu/_placeholder/side-chobani.jpg",
+    "remote": null,
+    "alt": "side chobani"
+  },
+  "salad-garden": {
+    "path": "assets/menu/_placeholder/salad-garden.jpg",
+    "remote": null,
+    "alt": "salad garden"
+  },
+  "salad-cobb": {
+    "path": "assets/menu/_placeholder/salad-cobb.jpg",
+    "remote": null,
+    "alt": "salad cobb"
+  },
+  "salad-green-dream": {
+    "path": "assets/menu/_placeholder/salad-green-dream.jpg",
+    "remote": null,
+    "alt": "salad green dream"
+  },
+  "salad-caesar": {
+    "path": "assets/menu/_placeholder/salad-caesar.jpg",
+    "remote": null,
+    "alt": "salad caesar"
+  },
+  "salad-greek": {
+    "path": "assets/menu/_placeholder/salad-greek.jpg",
+    "remote": null,
+    "alt": "salad greek"
+  },
+  "deli-tuna": {
+    "path": "assets/menu/_placeholder/deli-tuna.jpg",
+    "remote": null,
+    "alt": "deli tuna"
+  },
+  "deli-veggie-tuna": {
+    "path": "assets/menu/_placeholder/deli-veggie-tuna.jpg",
+    "remote": null,
+    "alt": "deli veggie tuna"
+  },
+  "deli-chicken": {
+    "path": "assets/menu/_placeholder/deli-chicken.jpg",
+    "remote": null,
+    "alt": "deli chicken"
+  },
+  "deli-cranberry-chicken": {
+    "path": "assets/menu/_placeholder/deli-cranberry-chicken.jpg",
+    "remote": null,
+    "alt": "deli cranberry chicken"
+  },
+  "deli-shrimp": {
+    "path": "assets/menu/_placeholder/deli-shrimp.jpg",
+    "remote": null,
+    "alt": "deli shrimp"
+  },
+  "deli-egg": {
+    "path": "assets/menu/_placeholder/deli-egg.jpg",
+    "remote": null,
+    "alt": "deli egg"
+  },
+  "deli-whitefish": {
+    "path": "assets/menu/_placeholder/deli-whitefish.jpg",
+    "remote": null,
+    "alt": "deli whitefish"
+  },
+  "deli-salmon": {
+    "path": "assets/menu/_placeholder/deli-salmon.jpg",
+    "remote": null,
+    "alt": "deli salmon"
+  },
+  "hot-grilled-chicken": {
+    "path": "assets/menu/_placeholder/hot-grilled-chicken.jpg",
+    "remote": null,
+    "alt": "hot grilled chicken"
+  },
+  "hot-chicken-blt": {
+    "path": "assets/menu/_placeholder/hot-chicken-blt.jpg",
+    "remote": null,
+    "alt": "hot chicken blt"
+  },
+  "hot-chicken-mozzarella": {
+    "path": "assets/menu/_placeholder/hot-chicken-mozzarella.jpg",
+    "remote": null,
+    "alt": "hot chicken mozzarella"
+  },
+  "hot-crispy-chicken": {
+    "path": "assets/menu/_placeholder/hot-crispy-chicken.jpg",
+    "remote": null,
+    "alt": "hot crispy chicken"
+  },
+  "hot-spicy-crispy": {
+    "path": "assets/menu/_placeholder/hot-spicy-crispy.jpg",
+    "remote": null,
+    "alt": "hot spicy crispy"
+  },
+  "hot-grilled-cheese": {
+    "path": "assets/menu/_placeholder/hot-grilled-cheese.jpg",
+    "remote": null,
+    "alt": "hot grilled cheese"
+  },
+  "hot-grilled-cheese-blt": {
+    "path": "assets/menu/_placeholder/hot-grilled-cheese-blt.jpg",
+    "remote": null,
+    "alt": "hot grilled cheese blt"
+  },
+  "hot-blt": {
+    "path": "assets/menu/_placeholder/hot-blt.jpg",
+    "remote": null,
+    "alt": "hot blt"
+  },
+  "spec-cuban": {
+    "path": "assets/menu/_placeholder/spec-cuban.jpg",
+    "remote": null,
+    "alt": "spec cuban"
+  },
+  "spec-reuben": {
+    "path": "assets/menu/_placeholder/spec-reuben.jpg",
+    "remote": null,
+    "alt": "spec reuben"
+  },
+  "spec-gourmet-blt": {
+    "path": "assets/menu/_placeholder/spec-gourmet-blt.jpg",
+    "remote": null,
+    "alt": "spec gourmet blt"
+  },
+  "spec-beef-gyro": {
+    "path": "assets/menu/_placeholder/spec-beef-gyro.jpg",
+    "remote": null,
+    "alt": "spec beef gyro"
+  },
+  "spec-gourmet-grilled-cheese": {
+    "path": "assets/menu/_placeholder/spec-gourmet-grilled-cheese.jpg",
+    "remote": null,
+    "alt": "spec gourmet grilled cheese"
+  },
+  "spec-tuna-melt": {
+    "path": "assets/menu/_placeholder/spec-tuna-melt.jpg",
+    "remote": null,
+    "alt": "spec tuna melt"
+  },
+  "spec-sloppy-joe": {
+    "path": "assets/menu/_placeholder/spec-sloppy-joe.jpg",
+    "remote": null,
+    "alt": "spec sloppy joe"
+  },
+  "spec-turkey-club": {
+    "path": "assets/menu/_placeholder/spec-turkey-club.jpg",
+    "remote": null,
+    "alt": "spec turkey club"
+  },
+  "spec-pastrami-corned": {
+    "path": "assets/menu/_placeholder/spec-pastrami-corned.jpg",
+    "remote": null,
+    "alt": "spec pastrami corned"
+  },
+  "spec-cranberry": {
+    "path": "assets/menu/_placeholder/spec-cranberry.jpg",
+    "remote": null,
+    "alt": "spec cranberry"
+  },
+  "sub-philly": {
+    "path": "assets/menu/_placeholder/sub-philly.jpg",
+    "remote": null,
+    "alt": "sub philly"
+  },
+  "sub-chicken-philly": {
+    "path": "assets/menu/_placeholder/sub-chicken-philly.jpg",
+    "remote": null,
+    "alt": "sub chicken philly"
+  },
+  "sub-crispy-blt": {
+    "path": "assets/menu/_placeholder/sub-crispy-blt.jpg",
+    "remote": null,
+    "alt": "sub crispy blt"
+  },
+  "sub-buffalo-chicken": {
+    "path": "assets/menu/_placeholder/sub-buffalo-chicken.jpg",
+    "remote": null,
+    "alt": "sub buffalo chicken"
+  },
+  "hoagie-1": {
+    "path": "assets/menu/_placeholder/hoagie-1.jpg",
+    "remote": null,
+    "alt": "hoagie 1"
+  },
+  "hoagie-2": {
+    "path": "assets/menu/_placeholder/hoagie-2.jpg",
+    "remote": null,
+    "alt": "hoagie 2"
+  },
+  "hoagie-3": {
+    "path": "assets/menu/_placeholder/hoagie-3.jpg",
+    "remote": null,
+    "alt": "hoagie 3"
+  },
+  "hoagie-4": {
+    "path": "assets/menu/_placeholder/hoagie-4.jpg",
+    "remote": null,
+    "alt": "hoagie 4"
+  },
+  "hoagie-5": {
+    "path": "assets/menu/_placeholder/hoagie-5.jpg",
+    "remote": null,
+    "alt": "hoagie 5"
+  },
+  "hoagie-6": {
+    "path": "assets/menu/_placeholder/hoagie-6.jpg",
+    "remote": null,
+    "alt": "hoagie 6"
+  },
+  "hoagie-7": {
+    "path": "assets/menu/_placeholder/hoagie-7.jpg",
+    "remote": null,
+    "alt": "hoagie 7"
+  },
+  "hoagie-8": {
+    "path": "assets/menu/_placeholder/hoagie-8.jpg",
+    "remote": null,
+    "alt": "hoagie 8"
+  },
+  "hoagie-9": {
+    "path": "assets/menu/_placeholder/hoagie-9.jpg",
+    "remote": null,
+    "alt": "hoagie 9"
+  },
+  "hoagie-10": {
+    "path": "assets/menu/_placeholder/hoagie-10.jpg",
+    "remote": null,
+    "alt": "hoagie 10"
+  },
+  "hoagie-11": {
+    "path": "assets/menu/_placeholder/hoagie-11.jpg",
+    "remote": null,
+    "alt": "hoagie 11"
+  },
+  "hoagie-12": {
+    "path": "assets/menu/_placeholder/hoagie-12.jpg",
+    "remote": null,
+    "alt": "hoagie 12"
+  },
+  "salad-sand-tuna": {
+    "path": "assets/menu/_placeholder/salad-sand-tuna.jpg",
+    "remote": null,
+    "alt": "salad sand tuna"
+  },
+  "salad-sand-veggie-tuna": {
+    "path": "assets/menu/_placeholder/salad-sand-veggie-tuna.jpg",
+    "remote": null,
+    "alt": "salad sand veggie tuna"
+  },
+  "salad-sand-chicken": {
+    "path": "assets/menu/_placeholder/salad-sand-chicken.jpg",
+    "remote": null,
+    "alt": "salad sand chicken"
+  },
+  "salad-sand-cranberry": {
+    "path": "assets/menu/_placeholder/salad-sand-cranberry.jpg",
+    "remote": null,
+    "alt": "salad sand cranberry"
+  },
+  "salad-sand-shrimp": {
+    "path": "assets/menu/_placeholder/salad-sand-shrimp.jpg",
+    "remote": null,
+    "alt": "salad sand shrimp"
+  },
+  "salad-sand-egg": {
+    "path": "assets/menu/_placeholder/salad-sand-egg.jpg",
+    "remote": null,
+    "alt": "salad sand egg"
+  },
+  "salad-sand-whitefish": {
+    "path": "assets/menu/_placeholder/salad-sand-whitefish.jpg",
+    "remote": null,
+    "alt": "salad sand whitefish"
+  },
+  "salad-sand-salmon": {
+    "path": "assets/menu/_placeholder/salad-sand-salmon.jpg",
+    "remote": null,
+    "alt": "salad sand salmon"
+  },
+  "veg-all-veggies": {
+    "path": "assets/menu/_placeholder/veg-all-veggies.jpg",
+    "remote": null,
+    "alt": "veg all veggies"
+  },
+  "veg-cheese-combo": {
+    "path": "assets/menu/_placeholder/veg-cheese-combo.jpg",
+    "remote": null,
+    "alt": "veg cheese combo"
+  },
+  "panini-1": {
+    "path": "assets/menu/_placeholder/panini-1.jpg",
+    "remote": null,
+    "alt": "panini 1"
+  },
+  "panini-2": {
+    "path": "assets/menu/_placeholder/panini-2.jpg",
+    "remote": null,
+    "alt": "panini 2"
+  },
+  "panini-3": {
+    "path": "assets/menu/_placeholder/panini-3.jpg",
+    "remote": null,
+    "alt": "panini 3"
+  },
+  "panini-4": {
+    "path": "assets/menu/_placeholder/panini-4.jpg",
+    "remote": null,
+    "alt": "panini 4"
+  },
+  "panini-5": {
+    "path": "assets/menu/_placeholder/panini-5.jpg",
+    "remote": null,
+    "alt": "panini 5"
+  },
+  "wrap-hot-1": {
+    "path": "assets/menu/_placeholder/wrap-hot-1.jpg",
+    "remote": null,
+    "alt": "wrap hot 1"
+  },
+  "wrap-hot-2": {
+    "path": "assets/menu/_placeholder/wrap-hot-2.jpg",
+    "remote": null,
+    "alt": "wrap hot 2"
+  },
+  "wrap-hot-3": {
+    "path": "assets/menu/_placeholder/wrap-hot-3.jpg",
+    "remote": null,
+    "alt": "wrap hot 3"
+  },
+  "wrap-hot-4": {
+    "path": "assets/menu/_placeholder/wrap-hot-4.jpg",
+    "remote": null,
+    "alt": "wrap hot 4"
+  },
+  "wrap-hot-5": {
+    "path": "assets/menu/_placeholder/wrap-hot-5.jpg",
+    "remote": null,
+    "alt": "wrap hot 5"
+  },
+  "wrap-cold-6": {
+    "path": "assets/menu/_placeholder/wrap-cold-6.jpg",
+    "remote": null,
+    "alt": "wrap cold 6"
+  },
+  "wrap-cold-7": {
+    "path": "assets/menu/_placeholder/wrap-cold-7.jpg",
+    "remote": null,
+    "alt": "wrap cold 7"
+  },
+  "wrap-cold-8": {
+    "path": "assets/menu/_placeholder/wrap-cold-8.jpg",
+    "remote": null,
+    "alt": "wrap cold 8"
+  },
+  "wrap-cold-9": {
+    "path": "assets/menu/_placeholder/wrap-cold-9.jpg",
+    "remote": null,
+    "alt": "wrap cold 9"
+  },
+  "wrap-cold-10": {
+    "path": "assets/menu/_placeholder/wrap-cold-10.jpg",
+    "remote": null,
+    "alt": "wrap cold 10"
+  },
+  "quesadilla-cheese": {
+    "path": "assets/menu/_placeholder/quesadilla-cheese.jpg",
+    "remote": null,
+    "alt": "quesadilla cheese"
+  },
+  "quesadilla-chicken": {
+    "path": "assets/menu/_placeholder/quesadilla-chicken.jpg",
+    "remote": null,
+    "alt": "quesadilla chicken"
+  },
+  "quesadilla-chicken-bacon": {
+    "path": "assets/menu/_placeholder/quesadilla-chicken-bacon.jpg",
+    "remote": null,
+    "alt": "quesadilla chicken bacon"
+  },
+  "quesadilla-buffalo": {
+    "path": "assets/menu/_placeholder/quesadilla-buffalo.jpg",
+    "remote": null,
+    "alt": "quesadilla buffalo"
+  },
+  "burger-cheese": {
+    "path": "assets/menu/_placeholder/burger-cheese.jpg",
+    "remote": null,
+    "alt": "burger cheese"
+  },
+  "burger-bacon": {
+    "path": "assets/menu/_placeholder/burger-bacon.jpg",
+    "remote": null,
+    "alt": "burger bacon"
+  },
+  "burger-turkey": {
+    "path": "assets/menu/_placeholder/burger-turkey.jpg",
+    "remote": null,
+    "alt": "burger turkey"
+  },
+  "burger-mushroom-swiss": {
+    "path": "assets/menu/_placeholder/burger-mushroom-swiss.jpg",
+    "remote": null,
+    "alt": "burger mushroom swiss"
+  },
+  "burger-breakfast": {
+    "path": "assets/menu/_placeholder/burger-breakfast.jpg",
+    "remote": null,
+    "alt": "burger breakfast"
+  },
+  "burger-avocado": {
+    "path": "assets/menu/_placeholder/burger-avocado.jpg",
+    "remote": null,
+    "alt": "burger avocado"
+  },
+  "burger-chipotle": {
+    "path": "assets/menu/_placeholder/burger-chipotle.jpg",
+    "remote": null,
+    "alt": "burger chipotle"
+  },
+  "burger-kosher-deli": {
+    "path": "assets/menu/_placeholder/burger-kosher-deli.jpg",
+    "remote": null,
+    "alt": "burger kosher deli"
+  },
+  "hotdog-beef": {
+    "path": "assets/menu/_placeholder/hotdog-beef.jpg",
+    "remote": null,
+    "alt": "hotdog beef"
+  },
+  "hotdog-italian": {
+    "path": "assets/menu/_placeholder/hotdog-italian.jpg",
+    "remote": null,
+    "alt": "hotdog italian"
+  },
+  "side-fries": {
+    "path": "assets/menu/_placeholder/side-fries.jpg",
+    "remote": null,
+    "alt": "side fries"
+  },
+  "side-onion-rings": {
+    "path": "assets/menu/_placeholder/side-onion-rings.jpg",
+    "remote": null,
+    "alt": "side onion rings"
+  },
+  "chicken-tenders": {
+    "path": "assets/menu/_placeholder/chicken-tenders.jpg",
+    "remote": null,
+    "alt": "chicken tenders"
+  },
+  "buffalo-wings": {
+    "path": "assets/menu/_placeholder/buffalo-wings.jpg",
+    "remote": null,
+    "alt": "buffalo wings"
+  },
+  "bev-iced-tea": {
+    "path": "assets/menu/_placeholder/bev-iced-tea.jpg",
+    "remote": null,
+    "alt": "bev iced tea"
+  },
+  "bev-lemonade": {
+    "path": "assets/menu/_placeholder/bev-lemonade.jpg",
+    "remote": null,
+    "alt": "bev lemonade"
+  },
+  "bev-smoothie": {
+    "path": "assets/menu/_placeholder/bev-smoothie.jpg",
+    "remote": null,
+    "alt": "bev smoothie"
+  },
+  "bev-canned-soda": {
+    "path": "assets/menu/_placeholder/bev-canned-soda.jpg",
+    "remote": null,
+    "alt": "bev canned soda"
+  },
+  "bev-bottled-soda": {
+    "path": "assets/menu/_placeholder/bev-bottled-soda.jpg",
+    "remote": null,
+    "alt": "bev bottled soda"
+  },
+  "bev-snapple": {
+    "path": "assets/menu/_placeholder/bev-snapple.jpg",
+    "remote": null,
+    "alt": "bev snapple"
+  },
+  "bev-gatorade": {
+    "path": "assets/menu/_placeholder/bev-gatorade.jpg",
+    "remote": null,
+    "alt": "bev gatorade"
+  },
+  "bev-arizona": {
+    "path": "assets/menu/_placeholder/bev-arizona.jpg",
+    "remote": null,
+    "alt": "bev arizona"
+  },
+  "bev-vitamin-water": {
+    "path": "assets/menu/_placeholder/bev-vitamin-water.jpg",
+    "remote": null,
+    "alt": "bev vitamin water"
+  },
+  "bev-monster": {
+    "path": "assets/menu/_placeholder/bev-monster.jpg",
+    "remote": null,
+    "alt": "bev monster"
+  },
+  "bev-energy-drink": {
+    "path": "assets/menu/_placeholder/bev-energy-drink.jpg",
+    "remote": null,
+    "alt": "bev energy drink"
+  },
+  "bev-bai": {
+    "path": "assets/menu/_placeholder/bev-bai.jpg",
+    "remote": null,
+    "alt": "bev bai"
+  },
+  "bev-calypso": {
+    "path": "assets/menu/_placeholder/bev-calypso.jpg",
+    "remote": null,
+    "alt": "bev calypso"
+  },
+  "bev-poland-sparkling": {
+    "path": "assets/menu/_placeholder/bev-poland-sparkling.jpg",
+    "remote": null,
+    "alt": "bev poland sparkling"
+  },
+  "bev-tropicana": {
+    "path": "assets/menu/_placeholder/bev-tropicana.jpg",
+    "remote": null,
+    "alt": "bev tropicana"
+  },
+  "bev-tropicana-gallon": {
+    "path": "assets/menu/_placeholder/bev-tropicana-gallon.jpg",
+    "remote": null,
+    "alt": "bev tropicana gallon"
+  },
+  "bev-chocolate-milk": {
+    "path": "assets/menu/_placeholder/bev-chocolate-milk.jpg",
+    "remote": null,
+    "alt": "bev chocolate milk"
+  },
+  "bev-nesquik": {
+    "path": "assets/menu/_placeholder/bev-nesquik.jpg",
+    "remote": null,
+    "alt": "bev nesquik"
+  },
+  "bev-yoohoo": {
+    "path": "assets/menu/_placeholder/bev-yoohoo.jpg",
+    "remote": null,
+    "alt": "bev yoohoo"
+  },
+  "bev-red-bull": {
+    "path": "assets/menu/_placeholder/bev-red-bull.jpg",
+    "remote": null,
+    "alt": "bev red bull"
+  },
+  "bev-sbux-frap-95": {
+    "path": "assets/menu/_placeholder/bev-sbux-frap-95.jpg",
+    "remote": null,
+    "alt": "bev sbux frap 95"
+  },
+  "bev-sbux-frap": {
+    "path": "assets/menu/_placeholder/bev-sbux-frap.jpg",
+    "remote": null,
+    "alt": "bev sbux frap"
+  },
+  "bev-sbux-double": {
+    "path": "assets/menu/_placeholder/bev-sbux-double.jpg",
+    "remote": null,
+    "alt": "bev sbux double"
+  },
+  "bev-poland-water": {
+    "path": "assets/menu/_placeholder/bev-poland-water.jpg",
+    "remote": null,
+    "alt": "bev poland water"
+  },
+  "bev-fiji": {
+    "path": "assets/menu/_placeholder/bev-fiji.jpg",
+    "remote": null,
+    "alt": "bev fiji"
+  },
+  "bev-premium-water": {
+    "path": "assets/menu/_placeholder/bev-premium-water.jpg",
+    "remote": null,
+    "alt": "bev premium water"
+  }
+}

@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="description" content="Contact Bagel Bazaar Monroe by phone, email, or message.">
+  <title>Contact Us | Bagel Bazaar Monroe, NJ</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/premium.css">
+  <link rel="stylesheet" href="css/delight.css">
+  <link rel="stylesheet" href="css/atmosphere.css">
+  <link rel="stylesheet" href="css/cinematic.css">
+  <link rel="stylesheet" href="css/features.css">
+  <link rel="stylesheet" href="css/perf.css">
+  <link rel="stylesheet" href="css/cart.css">
+  <link rel="icon" href="assets/logo/bagel-bazaar-logo.png" type="image/png">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.7/gsap.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.7/ScrollTrigger.min.js" defer></script>
+  <script src="js/site-config.js" defer></script>
+  <script src="js/icons.js" defer></script>
+  <script src="js/motion.js" defer></script>
+  <script src="js/interactions.js" defer></script>
+</head>
+<body class="is-loading" data-page="contact">
+<a href="#main" class="skip-link">Skip to content</a>
+  <div class="loader" id="loader" role="status" aria-live="polite" aria-busy="true">
+    <div class="loader__backdrop"></div>
+    <div class="loader__content">
+      <div class="loader__emblem">
+        <svg class="loader__ring" viewBox="0 0 120 120" aria-hidden="true">
+          <circle class="loader__ring-track" cx="60" cy="60" r="52"/>
+          <circle class="loader__ring-fill" id="loader-ring" cx="60" cy="60" r="52"/>
+        </svg>
+        <img src="assets/logo/bagel-bazaar-logo.png" alt="" class="loader__logo" width="72" height="72" decoding="async">
+      </div>
+      <p class="loader__brand">Bagel Bazaar</p>
+      <p class="loader__location">Monroe, NJ</p>
+      <p class="loader__tagline">Preparing your experience</p>
+      <div class="loader__progress-wrap"><span id="loader-progress">0</span>%</div>
+    </div>
+  </div>
+  <div class="page-transition" id="page-transition" aria-hidden="true">
+    <div class="page-transition__panel page-transition__panel--left"></div>
+    <div class="page-transition__panel page-transition__panel--right"></div>
+    <div class="page-transition__brand"><img src="assets/logo/bagel-bazaar-logo.png" alt="" width="64" height="64"></div>
+  </div>
+  <div class="cursor-glow" id="cursor-glow" aria-hidden="true"></div>
+  <header class="site-header" id="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo" data-transition="page">
+        <img src="assets/logo/bagel-bazaar-logo.png" alt="" class="logo-image" width="48" height="48">
+        <span class="logo-text"><strong>Bagel Bazaar</strong><small>Monroe, NJ</small></span>
+      </a>
+      <nav class="nav-desktop" aria-label="Primary">
+        <a href="index.html" data-nav="welcome" data-transition="page" class="nav-link"><span class="nav-link__text">Welcome</span></a>
+        <a href="menu.html" data-nav="menu" data-transition="page" class="nav-link"><span class="nav-link__text">Menu</span></a>
+        <a href="about.html" data-nav="about" data-transition="page" class="nav-link"><span class="nav-link__text">About Us</span></a>
+        <a href="location.html" data-nav="location" data-transition="page" class="nav-link"><span class="nav-link__text">Location</span></a>
+        <a href="contact.html" data-nav="contact" data-transition="page" class="nav-link is-active"><span class="nav-link__text">Contact Us</span></a>
+        <a href="order.html" data-nav="order" data-transition="page" class="nav-link"><span class="nav-link__text">Order Online</span></a>
+        <a href="other.html" data-nav="other" data-transition="page" class="nav-link"><span class="nav-link__text">Other</span></a>
+        <a href="app.html" data-nav="app" data-transition="page" class="nav-link"><span class="nav-link__text">Our App</span></a>
+        <a href="loyalty.html" data-nav="loyalty" data-transition="page" class="nav-link"><span class="nav-link__text">Loyalty Program</span></a>
+        <a href="tel:+16098609626" class="nav-phone">(609) 860-9626</a>
+      </nav>
+      <div class="header-cta">
+        <button type="button" class="cart-toggle" id="cart-toggle" aria-label="View cart"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-toggle__count is-empty" id="cart-toggle-count" data-cart-count>0</span></button>
+        <a href="https://www.bagelbazaarmonroe.com/OrderOnline.tpl" class="btn btn-primary btn-magnetic" target="_blank" rel="noopener">Order Online</a>
+        <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+    <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile" hidden>
+      <a href="index.html" data-nav="welcome" data-transition="page" class="nav-link"><span class="nav-link__text">Welcome</span></a>
+      <a href="menu.html" data-nav="menu" data-transition="page" class="nav-link"><span class="nav-link__text">Menu</span></a>
+      <a href="about.html" data-nav="about" data-transition="page" class="nav-link"><span class="nav-link__text">About Us</span></a>
+      <a href="location.html" data-nav="location" data-transition="page" class="nav-link"><span class="nav-link__text">Location</span></a>
+      <a href="contact.html" data-nav="contact" data-transition="page" class="nav-link is-active"><span class="nav-link__text">Contact Us</span></a>
+      <a href="order.html" data-nav="order" data-transition="page" class="nav-link"><span class="nav-link__text">Order Online</span></a>
+      <a href="other.html" data-nav="other" data-transition="page" class="nav-link"><span class="nav-link__text">Other</span></a>
+      <a href="app.html" data-nav="app" data-transition="page" class="nav-link"><span class="nav-link__text">Our App</span></a>
+      <a href="loyalty.html" data-nav="loyalty" data-transition="page" class="nav-link"><span class="nav-link__text">Loyalty Program</span></a>
+      <a href="tel:+16098609626">(609) 860-9626</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <div id="page">
+      <section class="page-hero page-hero--premium page-hero--compact">
+        <div class="container page-hero__inner" data-reveal>
+          <p class="eyebrow">Contact</p>
+          <h1 class="display-lg page-hero__title"><span class="line-mask"><span class="line-inner">We'd love to hear from you</span></span></h1>
+          <p class="lead page-hero__lead">Questions about catering, hours, or your order? Reach out anytime.</p>
+        </div>
+      </section>
+      <section class="section section--cinema section--atmosphere section--rich" data-section-depth>
+        <div class="section__ambient" aria-hidden="true">
+          <span class="ambient-orb ambient-orb--1"></span>
+          <span class="ambient-orb ambient-orb--2"></span>
+          <span class="ambient-orb ambient-orb--3"></span>
+        </div>
+        <div class="container">
+          <div class="section-divider section-divider--animate"></div>
+          <div class="contact-stage" data-reveal-stagger>
+            <div class="contact-stage__intro" data-reveal-item>
+              <p class="eyebrow">Reach us</p>
+              <h2 class="display-md">We're here to help</h2>
+              <p class="lead">Questions about catering, hours, or your order? Pick the fastest way to connect, or send us a message and we will get back to you.</p>
+              <div class="contact-channels">
+                <a href="tel:+16098609626" class="contact-channel has-ripple" data-panel-spotlight>
+                  <span class="contact-channel__spotlight" aria-hidden="true"></span>
+                  <span class="contact-channel__icon"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span>
+                  <div><span class="contact-channel__label">Phone</span><span class="contact-channel__value">(609) 860-9626</span><span class="contact-channel__hint">Call during business hours</span></div>
+                </a>
+                <a href="https://maps.google.com/?q=337+Applegarth+Rd+%2310+Monroe+NJ+08831" class="contact-channel has-ripple" target="_blank" rel="noopener" data-panel-spotlight>
+                  <span class="contact-channel__spotlight" aria-hidden="true"></span>
+                  <span class="contact-channel__icon"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
+                  <div><span class="contact-channel__label">Visit</span><span class="contact-channel__value">337 Applegarth Rd #10</span><span class="contact-channel__hint">Monroe, NJ 08831</span></div>
+                </a>
+                <a href="https://www.bagelbazaarmonroe.com/OrderOnline.tpl" class="contact-channel has-ripple" target="_blank" rel="noopener" data-panel-spotlight>
+                  <span class="contact-channel__spotlight" aria-hidden="true"></span>
+                  <span class="contact-channel__icon"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg></span>
+                  <div><span class="contact-channel__label">Order online</span><span class="contact-channel__value">bagelbazaarmonroe.com</span><span class="contact-channel__hint">Pickup and delivery</span></div>
+                </a>
+              </div>
+            </div>
+            <div class="contact-stage__form-wrap" data-reveal-item>
+              <div class="contact-form-panel">
+                <div class="contact-form-panel__header">
+                  <h3>Send a message</h3>
+                  <p>We typically respond within one business day.</p>
+                </div>
+                <form class="form-grid form-grid--premium" action="https://www.bagelbazaarmonroe.com/ContactUs.tpl" method="get">
+                  <div class="form-field"><span class="form-field__glow" aria-hidden="true"></span><label for="name">Name</label><input id="name" name="name" type="text" autocomplete="name" required placeholder="Your name"></div>
+                  <div class="form-field"><span class="form-field__glow" aria-hidden="true"></span><label for="email">Email</label><input id="email" name="email" type="email" autocomplete="email" required placeholder="you@email.com"></div>
+                  <div class="form-field"><span class="form-field__glow" aria-hidden="true"></span><label for="message">Message</label><textarea id="message" name="message" rows="5" required placeholder="How can we help?"></textarea></div>
+                  <button type="submit" class="btn btn-primary btn-magnetic btn-submit-premium"><span class="btn__text">Send Message</span><span class="btn__shine"></span></button>
+                </form>
+              </div>
+            </div>
+          </div>
+          <div class="trust-band" style="margin-top:2.5rem" data-reveal>
+            <div class="trust-band__item"><svg class="ui-icon ui-icon--mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg> Monroe favorite since day one</div>
+            <div class="trust-band__item"><svg class="ui-icon ui-icon--mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg> Fast, friendly responses</div>
+            <div class="trust-band__item"><svg class="ui-icon ui-icon--mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg> Catering and group orders welcome</div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+<footer class="site-footer">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <img src="assets/logo/bagel-bazaar-logo.png" alt="">
+        <strong>Bagel Bazaar</strong>
+        <p>337 Applegarth Rd #10, Monroe, NJ 08831<br>(609) 860-9626</p>
+        <div class="footer-app">
+          <p class="footer-app__label">Download the app</p>
+          <div class="app-download app-download--stacked app-download--footer" role="group" aria-label="Download the Bagel Bazaar app">
+  <a href="https://apps.apple.com/us/app/bagel-bazaar-app/id6752311040" class="store-badge store-badge--apple has-ripple" id="footer-ios" target="_blank" rel="noopener noreferrer" aria-label="Download Bagel Bazaar on the App Store">
+    <svg class="store-badge__svg" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+    <span class="store-badge__text"><small>Download on the</small><strong>App Store</strong></span>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.storefrontconsumer.bagel.bazaar&pcampaignid=web_share" class="store-badge store-badge--google has-ripple" id="footer-android" target="_blank" rel="noopener noreferrer" aria-label="Get Bagel Bazaar on Google Play">
+    <svg class="store-badge__svg store-badge__svg--play" viewBox="0 0 24 24" aria-hidden="true">
+  <path fill="#EA4335" d="M1.04 1.82A1.02 1.02 0 0 0 0 2.84v18.32c0 .47.25.9.66 1.14l10.58-10.3L1.04 1.82z"/>
+  <path fill="#FBBC04" d="M16.62 12 2.28 22.3l8.92-5.1 5.42-3.08L16.62 12z"/>
+  <path fill="#4285F4" d="M2.28 1.7 16.62 12l-5.42-3.08L2.28 1.7z"/>
+  <path fill="#34A853" d="M22.36 10.96a1.02 1.02 0 0 1 0 2.08l-3.82 2.12-4.92 2.84 8.74-5.02v-2.02z"/>
+</svg>
+    <span class="store-badge__text"><small>Get it on</small><strong>Google Play</strong></span>
+  </a>
+</div>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Explore</h4>
+        <a href="index.html" data-transition="page">Welcome</a>
+        <a href="menu.html" data-transition="page">Menu</a>
+        <a href="about.html" data-transition="page">About Us</a>
+        <a href="location.html" data-transition="page">Location</a>
+      </div>
+      <div class="footer-col">
+        <h4>Order and Rewards</h4>
+        <a href="order.html" data-transition="page">Order Online</a>
+        <a href="loyalty.html" data-transition="page">Loyalty Program</a>
+        <a href="app.html" data-transition="page">Download Our App</a>
+        <a href="other.html" data-transition="page">Other</a>
+      </div>
+      <div class="footer-col">
+        <h4>Connect</h4>
+        <a href="contact.html" data-transition="page">Contact Us</a>
+        <a href="tel:+16098609626">(609) 860-9626</a>
+        <a href="https://maps.google.com/?q=337+Applegarth+Rd+%2310+Monroe+NJ+08831" target="_blank" rel="noopener">Get Directions</a>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <span>&copy; <span id="year"></span> Bagel Bazaar Monroe. All rights reserved.</span>
+      <span>Powered by QuikChow</span>
+    </div>
+  </footer>
+  <div class="smart-loyalty" aria-label="Rewards and app" data-reveal>
+  <div class="container smart-loyalty__inner">
+    <div class="smart-loyalty__copy">
+      <p class="smart-loyalty__eyebrow">Member perks</p>
+      <p class="smart-loyalty__text">Earn rewards on every order and reorder favorites faster in the app.</p>
+    </div>
+    <div class="smart-loyalty__actions">
+      <a href="loyalty.html" class="btn btn-outline btn-sm" data-transition="page">Rewards</a>
+      <a href="app.html" class="btn btn-primary btn-sm" data-transition="page">Get the app</a>
+    </div>
+  </div>
+</div>
+  <nav class="mobile-bar mobile-bar--premium" id="mobile-bar" aria-label="Quick actions">
+    <a href="tel:+16098609626" class="mobile-bar__action" aria-label="Call Bagel Bazaar"><span>Call</span></a>
+    <a href="https://maps.google.com/?q=337+Applegarth+Rd+%2310+Monroe+NJ+08831" class="mobile-bar__action" target="_blank" rel="noopener" aria-label="Get directions"><span>Map</span></a>
+    <a href="https://www.bagelbazaarmonroe.com/OrderOnline.tpl" class="btn btn-primary mobile-bar__order" target="_blank" rel="noopener">Order Now</a>
+    <a href="loyalty.html" class="mobile-bar__action" data-transition="page" aria-label="Loyalty rewards"><span>Rewards</span></a>
+  </nav>
+  <aside class="order-dock order-dock--premium" id="order-dock" aria-label="Quick order" hidden>
+    <div class="order-dock__inner container">
+      <p class="order-dock__text"><strong>Bagel Bazaar</strong> open daily from 4:30 AM</p>
+      <div class="order-dock__actions">
+        <a href="tel:+16098609626" class="order-dock__link">Call</a>
+        <a href="https://maps.google.com/?q=337+Applegarth+Rd+%2310+Monroe+NJ+08831" class="order-dock__link" target="_blank" rel="noopener">Directions</a>
+        <a href="loyalty.html" class="order-dock__link" data-transition="page">Rewards</a>
+        <a href="app.html" class="order-dock__link" data-transition="page">App</a>
+        <a href="https://www.bagelbazaarmonroe.com/OrderOnline.tpl" class="btn btn-primary btn-sm" target="_blank" rel="noopener">Order Now</a>
+      </div>
+    </div>
+  </aside>
+  <div class="order-cart" id="order-cart" aria-hidden="true">
+  <div class="order-cart__backdrop" id="order-cart-backdrop"></div>
+  <aside class="order-cart__panel" role="dialog" aria-modal="true" aria-labelledby="order-cart-title">
+    <header class="order-cart__head">
+      <h2 id="order-cart-title">Your order</h2>
+      <button type="button" class="order-cart__close" id="order-cart-close" aria-label="Close cart">×</button>
+    </header>
+    <div class="order-cart__body">
+      <p class="order-cart__empty" id="order-cart-empty">Your cart is empty. Add items from the menu to get started.</p>
+      <div class="order-cart__items" id="order-cart-items"></div>
+    </div>
+    <footer class="order-cart__foot">
+      <div class="order-cart__summary">
+        <span>Estimated subtotal</span>
+        <strong id="order-cart-total">$0.00</strong>
+      </div>
+      <div class="order-cart__actions">
+        <a href="https://www.bagelbazaarmonroe.com/OrderOnline.tpl" class="btn btn-primary btn-magnetic" id="order-cart-checkout" target="_blank" rel="noopener">Checkout online</a>
+        <button type="button" class="order-cart__clear" id="order-cart-clear">Clear cart</button>
+      </div>
+      <p class="order-cart__note">Items are saved on this device. Complete payment on our secure ordering site.</p>
+    </footer>
+  </aside>
+</div>
+<button type="button" class="cart-fab" id="cart-fab" aria-label="Open cart"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-fab__count is-empty" id="cart-fab-count" data-cart-count>0</span></button>
+<div class="cart-toast" id="cart-toast" role="status" aria-live="polite"></div>
+  <script src="js/cart.js" defer></script>
+  <script src="js/core.js" defer></script>
+</body>
+</html>

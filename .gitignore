@@ -1,0 +1,13 @@
+node_modules/
+package-lock.json
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+_tmp_*.html
+.cursor/
+.netlify/
+
+# Local editor / tooling (not needed on GitHub Pages)
+*.code-workspace

@@ -1,0 +1,17 @@
+/**
+ * Browser-side icon helpers (mirrors scripts/icons.mjs)
+ */
+window.BagelIcons = (function () {
+  "use strict";
+
+  const starSvg =
+    '<svg class="ui-icon ui-icon--star" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>';
+
+  function stars(count, className) {
+    const n = count || 5;
+    const cls = className || "star-row";
+    return `<span class="${cls}" aria-hidden="true">${starSvg.repeat(n)}</span>`;
+  }
+
+  return { stars, starSvg };
+})();

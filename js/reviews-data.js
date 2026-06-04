@@ -1,0 +1,47 @@
+/**
+ * Bagel Bazaar Monroe, Google Reviews (customer testimonials)
+ */
+window.BAGEL_REVIEWS = [
+  { id: 1, name: "Brijesh Soni", rating: 5, category: "bagels", excerpt: "Perfectly toasted everything bagel with cream cheese, crisp exterior, soft chewy center. Highly recommend to kick off your morning.", menuItem: { name: "Everything Bagel", image: "data/bagel with lox spread.jpg" } },
+  { id: 2, name: "Selvin Iraheta-Gutierrez", rating: 5, category: "bagels", excerpt: "Best bagels, crispy outside, soft and chewy inside. Cream cheese flavors are top-notch and breakfast sandwiches are perfect.", menuItem: { name: "Lox and Spreads", image: "data/bagel with lox spread.jpg" } },
+  { id: 3, name: "Jiten Patel", rating: 5, category: "bagels", excerpt: "Bagels are so tasty and always fresh, big, fluffy insides and a crispy exterior. Coffee is great and staff is super friendly.", menuItem: { name: "Morning Coffee", image: "data/coffee.jpg" } },
+  { id: 4, name: "Jesus Lopez", rating: 5, category: "favorites", excerpt: "They make a killer belly buster and pork roll and cheese. Love the tropical coconut coffee.", menuItem: { name: "Belly Buster", image: "data/Belly Buster Sandwich.jpg" } },
+  { id: 5, name: "Kathryn Pace", rating: 5, category: "favorites", excerpt: "Best breakfast sandwiches ever. I always order from here. The coffee is delicious too.", menuItem: { name: "Morning Coffee", image: "data/coffee.jpg" } },
+  { id: 6, name: "Diana Lopez", rating: 5, category: "favorites", excerpt: "Amazing place for breakfast. Fast service, great coffee, and an incredible bacon egg and cheese.", menuItem: { name: "Bacon Egg and Cheese", image: "data/Egg & Cheese Sandwich.jpg" } },
+  { id: 7, name: "Kelly Macciaverna", rating: 5, category: "bagels", excerpt: "Absolutely delicious gluten free bagel, toasted, with butter and over-medium egg." },
+  { id: 8, name: "Anthony M", rating: 5, category: "favorites", excerpt: "Delicious bagels and breakfast foods. Love their bacon, egg, and cheese on a toasted everything bagel.", menuItem: { name: "Bacon Egg and Cheese", image: "data/Egg & Cheese Sandwich.jpg" } },
+  { id: 9, name: "Tejas Patel", rating: 5, category: "favorites", excerpt: "Bagels are great. Egg and cheese omelet on a bagel, crunchy and full of flavor. Coffee is awesome.", menuItem: { name: "Morning Coffee", image: "data/coffee.jpg" } },
+  { id: 10, name: "Doxi Lopez", rating: 5, category: "coffee", excerpt: "I've been coming here for years. Bagels always fresh, it's the only place I get my coffee. Paninis and gyros are amazing.", menuItem: { name: "Morning Coffee", image: "data/coffee.jpg" } },
+  { id: 11, name: "Jimmy Patel", rating: 5, category: "coffee", excerpt: "Clean and opens early. My go-to morning stop for the best coffee, bagel, and egg and cheese in town.", menuItem: { name: "Bacon Egg and Cheese", image: "data/Egg & Cheese Sandwich.jpg" } },
+  { id: 12, name: "M P", rating: 5, category: "bagels", excerpt: "Exceptional bagel experience, impressive selection of fresh, perfectly baked bagels for every taste." },
+  { id: 13, name: "Rick C", rating: 5, category: "bagels", excerpt: "Great spreads like cinnamon butter and cool cream cheeses. Real deli-style food, not the chains.", menuItem: { name: "Lox and Spreads", image: "data/bagel with lox spread.jpg" } },
+  { id: 14, name: "Mari De", rating: 5, category: "bagels", excerpt: "Excellent NY-style bagels with cool flavors too. Tuna salad is awesome." },
+  { id: 15, name: "Sanvi Desai", rating: 5, category: "favorites", excerpt: "Fried egg and cheese on a jalapeño bagel, so good. We always order ahead; super convenient.", menuItem: { name: "Bacon Egg and Cheese", image: "data/Egg & Cheese Sandwich.jpg" } },
+  { id: 16, name: "EyeGot theRecipee", rating: 5, category: "favorites", excerpt: "Fast friendly service, opens early, bagels made fresh and affordable. French toast bagel is my favorite.", menuItem: { name: "French Toast Bagel", image: "data/Classic French Toast.jpg" } },
+  { id: 17, name: "Janet Feuerstein", rating: 5, category: "cleanliness", excerpt: "Everyone is super nice and accommodating. Food and bagels always fresh, super clean too." },
+  { id: 18, name: "Michael Estelle", rating: 5, category: "cleanliness", excerpt: "Great bagels and the place is very clean. Everyone is very nice and friendly." },
+  { id: 19, name: "Anjana Patel", rating: 5, category: "cleanliness", excerpt: "Very busy but ample parking. Fresh bagels, varied menu and muffins. Clean, well organized, big yes for me." },
+  { id: 20, name: "Peter M West Sr", rating: 5, category: "service", excerpt: "All the employees are outstanding. Orders are always accurate. One of my favorite places to eat and order from." },
+  { id: 21, name: "Sam Schneider", rating: 5, category: "service", excerpt: "Terrific quality bagels and phenomenal service." },
+  { id: 22, name: "Agustin Rodriguez", rating: 5, category: "service", excerpt: "Amazing bagels and staff. Diana is always kind and generous." },
+  { id: 23, name: "Rahi Parikh", rating: 5, category: "service", excerpt: "Bagels are awesome, you can really taste the flavors. Clean place, nice staff." },
+  { id: 24, name: "Glenn Peterson", rating: 5, category: "service", excerpt: "Great product and service. Large breakfast and lunch menu with wraps, sandwiches, and paninis. Fast and well organized.", menuItem: { name: "The Reuben", image: "data/%232%20The%20Reuben.jpg" } },
+  { id: 25, name: "Jeffrey Salzberger", rating: 5, category: "coffee", excerpt: "Great bagels and great service. Just noticed they have cold coffee drinks, can't wait to try.", menuItem: { name: "Morning Coffee", image: "data/coffee.jpg" } },
+  { id: 26, name: "Sam Ashburner", rating: 5, category: "coffee", excerpt: "Great bagel shop with a large selection of coffee and drinks.", menuItem: { name: "Morning Coffee", image: "data/coffee.jpg" } },
+  { id: 27, name: "Madeline Wentworth", rating: 5, category: "bagels", excerpt: "Large variety of different bagels, fresh and fast." },
+  { id: 28, name: "B.", rating: 5, category: "bagels", excerpt: "Love their bagels, always fresh and soft. The rainbow bagel is a fun addition to the menu." },
+  { id: 29, name: "Franklin Calderon", rating: 5, category: "bagels", excerpt: "They have the most delicious rainbow bagels." },
+  { id: 30, name: "Stanley Lacko", rating: 5, category: "favorites", excerpt: "Cool place. Fresh bagels and baked goods. Giant cookies." },
+  { id: 31, name: "Hayoun Jung", rating: 5, category: "favorites", excerpt: "Great bagel and nice staff. The puppy bagel with ham, egg, and cheese is a favorite.", menuItem: { name: "Bacon Egg and Cheese", image: "data/Egg & Cheese Sandwich.jpg" } },
+  { id: 32, name: "John Ann Price", rating: 5, category: "service", excerpt: "Love having breakfast here. Plenty of choices and the service is friendly and quick." },
+  { id: 33, name: "Isidra Sanchez", rating: 5, category: "service", badge: "Local favorite", excerpt: "For platters or special occasions, order with Diana, they do an amazing job. Continental spread and fruit bowl are perfect." },
+];
+
+window.REVIEW_CATEGORIES = [
+  { id: "all", label: "All Reviews" },
+  { id: "bagels", label: "Bagel Quality" },
+  { id: "coffee", label: "Coffee" },
+  { id: "service", label: "Service" },
+  { id: "favorites", label: "Fan Favorites" },
+  { id: "cleanliness", label: "Clean and Fresh" },
+];

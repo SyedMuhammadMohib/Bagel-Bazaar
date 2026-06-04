@@ -1,0 +1,213 @@
+/* ==========================================================================
+   Bagel Bazaar — Performance & rendering stability layer
+   Load last. Fixes scroll jank, white image flashes, compositing glitches.
+   ========================================================================== */
+
+/* ── Stable image rendering (prevents white flash / repaint glitches) ── */
+img,
+.menu-card__img,
+.menu-card__media img,
+.popular-card__media img,
+.bento-card__media img,
+.hero__frame img,
+.clip-reveal__inner img,
+.cinematic-media img,
+.review-food-chip img,
+.menu-reviews__card img {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.menu-card__media,
+.popular-card__media,
+.bento-card__media,
+.hero__frame--main,
+.clip-reveal,
+.cinematic-media {
+  background-color: var(--cream-deep, #fff0ec);
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.menu-card__media img,
+.popular-card__media img {
+  transform: translateZ(0);
+}
+
+/* ── Remove full-page blend modes that wash images white ── */
+body::before {
+  mix-blend-mode: normal;
+  opacity: 0.022;
+  z-index: 0;
+}
+
+.cursor-glow {
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+.hero__grain {
+  mix-blend-mode: normal;
+  opacity: 0.025;
+}
+
+.hero__light-sweep {
+  mix-blend-mode: normal;
+  opacity: 0.35;
+}
+
+/* ── Replace expensive backdrop-filter on fixed/sticky UI ── */
+.site-header {
+  background: rgba(255, 255, 255, 0.98);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.mobile-bar--premium,
+.order-dock--premium,
+.order-dock {
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.mobile-bar--premium {
+  background: rgba(20, 16, 18, 0.98);
+}
+
+.order-dock--premium {
+  background: rgba(20, 16, 18, 0.98);
+}
+
+.order-dock:not(.order-dock--premium) {
+  background: rgba(255, 255, 255, 0.98);
+}
+
+/* ── Lighter ambient layers ── */
+.ambient-orb {
+  filter: blur(40px);
+  will-change: auto;
+}
+
+@media (max-width: 767px) {
+  .ambient-orb,
+  .hero__light-sweep,
+  .cursor-glow {
+    display: none;
+  }
+
+  .hero__ambient-glow {
+    animation: none;
+    opacity: 0.2;
+  }
+
+  .hero__grain {
+    display: none;
+  }
+}
+
+/* ── Reduce continuous CSS animations ── */
+.hero__light-sweep {
+  animation: none;
+}
+
+.hero__ambient-glow {
+  animation-duration: 14s;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-strip__track,
+  .reviews-marquee__track,
+  .hero__ambient-glow,
+  .hero__mesh,
+  .hero__scroll-line {
+    animation: none !important;
+  }
+}
+
+/* ── GPU layer hints removed — caused memory pressure on long pages ── */
+.line-inner,
+.clip-reveal__inner,
+.marquee-strip__track {
+  will-change: auto;
+}
+
+.menu-grid.is-switching {
+  pointer-events: none;
+}
+
+/* ── Signature cards: full brightness on touch tap ── */
+@media (max-width: 767px) {
+  .popular-card.is-active,
+  .signature-card.is-active {
+    box-shadow: 0 12px 40px rgba(196, 30, 58, 0.12);
+  }
+}
+
+/* ── GPU-friendly hover on cards (CSS only) ── */
+.menu-card--premium:hover {
+  transform: translateY(-4px);
+}
+
+.menu-section--cinematic .menu-card--premium:hover .menu-card__media img {
+  transform: scale(1.04);
+  transition-duration: 0.4s;
+}
+
+/* ── Bagel custom cursor (desktop pointer devices) ── */
+@media (hover: hover) and (pointer: fine) {
+  :root {
+    --cursor-bagel: url("../assets/cursor/bagel-cursor.svg") 16 16, auto;
+  }
+
+  html,
+  body,
+  a,
+  button,
+  label,
+  select,
+  summary,
+  input[type="submit"],
+  input[type="button"],
+  input[type="reset"],
+  [role="button"],
+  [role="tab"],
+  [role="link"],
+  .btn,
+  .menu-tab,
+  .menu-nav__btn,
+  .reviews-filter,
+  .reviews-carousel__btn,
+  .reviews-dot,
+  .signature-picks__btn,
+  .store-badge,
+  .popular-card,
+  .signature-card,
+  .menu-card,
+  .bento-card,
+  .review-card,
+  .review-food-chip,
+  .builder-chip,
+  .link-tile,
+  .loyalty-strip__card,
+  .mobile-bar__action,
+  .order-dock__link,
+  .nav-desktop a,
+  .mobile-menu a,
+  .footer-col a,
+  .cart-toggle,
+  .cart-fab,
+  .btn-add-cart,
+  .order-cart__qty-btn,
+  .order-cart__remove,
+  .order-cart__clear {
+    cursor: var(--cursor-bagel);
+  }
+
+  button:disabled,
+  .menu-nav__btn:disabled,
+  .reviews-carousel__btn:disabled,
+  .signature-picks__btn:disabled,
+  [disabled] {
+    cursor: not-allowed;
+  }
+}

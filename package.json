@@ -1,0 +1,17 @@
+{
+  "name": "bagel-bazaar",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Bagel Bazaar Monroe — premium static website",
+  "scripts": {
+    "build": "node scripts/build-pages.mjs",
+    "deploy": "npm run build && netlify deploy --prod --dir .",
+    "deploy:draft": "npm run build && netlify deploy --dir ."
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.0.0"
+  }
+}
